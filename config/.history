@@ -1,0 +1,9815 @@
+f:
+cd test
+f:
+cd test
+cd cmder
+d:
+:
+Cmder.exe /REGISTER.ALL
+cd f:
+f:
+cd test
+vue init webpack vuedemo
+cd vuedemo
+cnpm install
+npm run dev
+cnpm install
+f:
+cd test/vuedemo
+cnpm install vue-router -D
+node -v
+cnpm -v
+npm update -g
+npm update
+npm -v
+npm vue-cli -v
+npm view vue-cli
+npm run dev
+f:
+cd test/vuedemo
+npm run dev
+npm vue-cli -v
+npm view vue-cli
+npm run dev
+f:
+cd test/vuedemo
+npm install css-loader,style-loader -d
+npm install css-loader,style-loader -D
+npm install css-loader -g
+npm install css-loader
+npm install css-loader -D
+npm update css-loader
+npm run dev
+f:
+cd test/vuedemo
+npm run dev
+f:L
+f:
+cd test/vuedemo
+npm install css-loader
+npm install css-loader -D
+cnpm install css-loader
+npm run dev
+npm run dev
+f:
+cd test/vuedemo
+npm install --save
+npm run dev
+npm install --save
+npm run dev
+node -v
+npm -v
+f:
+cd test/
+vue init webpack vuedemo
+cd vuedemo
+npm config set registry https//registry.npm.taobao.org
+npm config get registry
+npm info express
+npm install
+npm config set registry https://registry.npm.taobao.org
+f:
+cd test/vuedemp
+cd test/vuedemo
+f:
+cd test/vuedemo
+npm install vue-router -D
+f:
+cd test
+vue init webpack vuedemo
+cd vuedemo
+npm config get registry
+npm install
+npm run dev
+npm install vue-router -D
+f:
+cd test/vuedemp
+cd test/vuedemo
+npm run dev
+f:
+cd test/vuedemp
+cd test/vuedemo
+npm run dev
+f:
+cd test/vuedemo
+npm run dev
+f:
+cd test/vuedemo
+npm
+npm -l
+npm -ls
+npm run dev
+npm -ls
+f:
+cd test/vuedemo
+npm install vue-router -D
+npm run dev
+npm config get registry
+f:
+cd test
+vue init webpack myproject
+cd myproject
+npm install
+npm run dev
+npm run dev
+f:
+cd test/myproject
+npm run build
+pm
+f:
+test/myproject
+cd test/myproject
+npm run build
+npm run dev
+f:
+cd test/myproject
+npm run build
+pm
+f:
+test/myproject
+cd test/myproject
+npm run build
+npm run dev
+npm install
+npm install -g npm
+npm -v
+node install -g n
+npm install -g n
+npm install n
+node -v
+n stable
+n
+node -v
+n stable
+n
+gnvm version
+gnvm update
+gnvm help update
+f:
+c:
+cd program files
+./
+cd
+cd..
+cd program files/nodejs
+gnvm update latest -g
+n stable
+n
+node -v
+npm install
+npm -v
+npm
+npm -help
+npm help
+npm help npm
+f:
+test/myproject
+cd test/myproject
+npm run dev
+npm install vue-router
+npm uninstall -g jshint
+npm ls -g
+gnvm update latest -g
+npm install -g jshint
+f:
+cd test/myproject
+npm run dev
+f:
+cd test/myproject
+f:
+cd test/myproject
+npm run dev
+ping 192.168.5.17
+ping fmp quanyaowang.com
+ping fmp.quanyaowang.com
+f:
+cd test/myproject
+cd test/myproject
+ping 192.168.5.17
+ping fmp quanyaowang.com
+ping fmp.quanyaowang.com
+f:
+cd git/helloworld
+npm install
+npm init
+npm run dev
+npm run index.html
+npm install path
+node index.html
+node index.js
+node index.html
+f:
+cd test/helloworld
+cd test/hellowrold
+cd git/helloworld
+node index.js
+node index.html
+cd test/helloworld
+cd test/hellowrold
+f:
+cd git/helloworld
+node index,js
+node index.js
+npm 
+npm uninstall
+npm uninstall npm
+npm
+npm -v
+node -v
+npm remove
+npm uninstall -save
+npm -l
+npm -l
+f:
+cd work/gpo
+npm uninstall -save
+npm remove
+npm uninstall
+f:
+cd work/gpo
+npm run dev
+npm uninstall
+f:
+dir
+cd work/gpo
+npm run dev
+clean
+cmd /k
+cd work/gpo
+npm run dev
+npm uninstall
+npm run dev
+clean
+cmd /k
+f:
+cd work/gpo
+git version
+git config user.name
+git config user.email
+git branch -m
+git branch -m LiChangSheng
+git branch -m develop
+git branch
+git checkout develop
+git checkout lichangsheng
+git checkout LiChangSheng
+git pull
+git push
+git config --list
+git help
+git h
+git --h
+git --help
+dir
+cls
+cmd
+11
+cd 11
+f:
+make news
+/?
+net user
+net user =
+net user +
+cd work/gpo
+npm
+npm -l
+npm ls
+git
+cls
+npm run dev
+net user
+net user =
+net user +
+cd work/gpo
+npm
+npm -l
+npm ls
+npm run dev
+osql ?/
+sqlcmd
+sqlcmd ?/
+sqlcmd -S 192.168.5.17 -U sa -P new123
+sqlsql -go
+sqlsql -?
+sqlcmd -?
+cls
+git
+f:
+cd git/
+git clone https://github.com/ChangLCS/webextensions-examples.git
+cd webextensions-examples
+git checkout -b develop
+git branch
+git add all
+git add
+git add readme.txt
+git add readme.md
+git add annotate-page/readme.md
+git commit -m 'Chang's test,if it work?'
+git commit -m 'Chang test,if it work?'
+git commit
+cd annotate-page
+git commit -m 'readme.md'
+git add README.md
+git commit -m 'README.md'
+ cd ..
+git checkout
+git checkout develop
+git checkout develop 
+reset
+resety
+git rest --hard master
+git reset --develop
+git push
+git push  orgin master
+git 
+git log
+g
+g 
+tig
+re
+gg
+ig
+itig
+ig
+itig
+npm config get registry
+npm info express
+cls
+node -v
+npm i -g npm
+npm -v
+cls
+f:
+cd work/gpo
+npm run dev
+f:
+cd work/gpo
+npm run dev
+cd work/gpo
+npm run dev
+lcs
+cls
+git --version
+ping
+ping -t
+npm run dev
+f:
+cd work/gpo
+npm run dev
+f:
+cd work/gpo
+npm run dev
+npm run dev
+npm config get registry
+f:
+cd work/test
+cd work/gpo
+npm install
+npm run dev
+ping
+ping -t
+npm run dev
+f:
+cd work/gpo
+npm run dev
+f:
+cd work/gpo
+npm -i
+npm ls
+cls
+npm i
+npm run dev
+npm i
+npm run dev
+f:
+github
+cd github
+git clon https://github.com/ChangLCS/GitStudy.git 
+git clone https://github.com/ChangLCS/GitStudy.git
+cd gitstudy
+git branch Chang
+git branch
+git checkout chang
+git checkout Chang
+git add .
+git commit
+ping 106.185.28.106
+ping 106.185.28.106 -config
+cls
+f:
+cd work/gpo
+git clone https://github.com/ChangLCS/GitStudy.git
+cd gitstudy
+git branch Chang
+git branch
+git checkout chang
+git commit
+f:
+cd github/gitstudy
+git add .
+git commit -m 你好提交
+git merge Chang master
+git checkout master
+git status
+git checkout Chang
+git pull
+git push Chang
+it
+git
+git push Chang https://github.com/ChangLCS/GitStudy.git
+git push “"你好" Chang https://github.com/ChangLCS/GitStudy.git
+git branch --set-upstream-to=origin/dev
+git branch --set-Chang-to=origin/dev
+git push
+git push --set-Chang origin Chang
+git push --set-upsteam origin Chang
+git push origin Chang
+git 
+git help -a
+ git remote
+ git remote show
+ git remote show origin
+f:
+cd work/gpo
+npm run dev
+f:
+cd work/gpo
+git add .
+git commit
+npm run dev
+cd work/gpo
+git add .
+git commit
+ping baidu.com
+ping http:baidu.com
+ping http://baidu.com
+ping http://www.baidu.com
+ping 192.168.5.17
+ping www.baidu.com
+ping qq.com
+ping http://qq.com
+ping www.qq.com
+f:
+cd test/demo
+nop i eslint-config-airbnb-base -s
+npm i eslint-config-airbnb-base -s
+npm i eslint-config-airbnb-base
+npm i eslint-config-airbnb-base -save-dev
+npm i eslint-plugin-import -save-dev
+f:
+cd test/demp
+cd test/demo
+npm i element-ui -save
+git add .
+git commit
+f:
+cd test
+vue init webpack demp
+dir
+vue init webpack demo
+cd demo
+npm install
+npm run dev
+f:
+cd work/gpo
+git commit -m 资源管理UI界面修改
+f:
+cd work/gpo
+npm run dev
+ping http://haohaodo.com/
+ping baidu.com
+ping haohaodo.com
+ping smallmm.com
+ping shit.com
+f:
+test
+cd test
+vue init webpack other
+cd demo
+npm i element-ui -save-dev
+npm remove element-ui
+npm i element-ui -s
+npm ls
+cls
+npm i element-theme
+npm uninstall element-theme
+npm i font-awesome
+npm i nprogress
+npm vue-bus
+npm i vue-bus
+npm i vuex
+npm axios
+npm i axios
+npm i babel-polyfill -s
+npm uninstall babel-polyfill 
+nm i babel-polyfill -save-dev
+npm i babel-polyfill -save-dev
+f:
+cd test
+dir
+vue init webpack demo
+cd demo
+npm i
+npm run dev
+f:
+cd work/gpo
+npm run dev
+vue init webpack demo
+cd demo
+npm i
+npm run dev
+cd work/gpo
+f:
+cd test/demo
+npm run dev
+f:
+cd work/gpo
+npm run dev
+cd test/demo
+npm run dev
+npm run dev
+ping baidu.com
+config
+ipconfig
+ipconfig/all
+cls
+f:
+cd work/gpo
+npm i vue-drag-and-drop
+f:
+cd test/demo
+npm run dev
+npm run dev
+cd work/gpo
+f:
+cd test/demo
+npm run dev
+f:
+cd work/gpo
+cls
+npm run dev
+npm run dev
+npm uninstall  vue-drag-and-drop
+f:
+cd work/gpop
+cd work/gpo
+npm uninstall vue-drag-and-drop
+npm i table-dragger --save
+npm uninstall table-dragger
+ping baidu.com
+npm run dev
+f:
+cd work/gpo
+cls
+npm run dec
+y
+npm run dev
+f:
+cd text/gpo
+cd test/gpo
+npm i axios
+npm run element-ui
+npm i element-ui
+npm i font-awesome
+npm i nprogress
+npm i vue-bus
+npm i vuex
+npm run build
+npm i --save-dev babel-polyfill
+npm run dist/index.html
+npm run dist
+npm run dec
+npm i -g vue-cli
+y
+cls
+f:
+cd text
+cd test
+vue init webpack gpo
+cd gpo
+npm i
+npm i 
+npm run dev
+f:
+cd work/gpo
+npm run dev
+cd test
+vue init webpack gpo
+cd gpo
+npm i
+npm i 
+npm run dev
+npm run dev
+diff
+cd work/gpo
+diff index.html package.json
+/
+..
+.
+./
+../
+cd
+cd .
+cd ..
+cd /
+cd ./
+f:
+cd f:
+cd onedrive
+cd dir
+cd !ChangHtml
+dir
+diff yzm.1.html yzm.heml
+diff --git yzm.1.html yzm.html
+diff--git yzm.1.html yzm.html
+git -diff yzm.1.html yzm.html
+diff yzm.1.html yzm.html
+mstsc
+f:
+cd work/gpo
+npm run dev
+mstsc
+npm run dev
+ipconfih
+ipconfig
+cls
+f:
+cd work/gpo
+it status
+git status
+git push develop
+git push https://gitlab.com/yaoling-gpo/front/yaoling-gpo-fe-mdm develop
+ipconfig
+it status
+git push develop
+git push https://gitlab.com/yaoling-gpo/front/yaoling-gpo-fe-mdm develop
+f:
+cd work/gpo
+git
+git fetch origin develop
+git pull develop LiChangSheng
+git pull origin/develop LiChangSheng
+git status
+git pull origin develop LiChangSheng
+cls
+git log
+f:
+cd work/gpo
+git push origin LiChangSheng:LiChangSheng
+npm
+npm i -g npm
+f:
+cd test/demo
+npm run dev
+diff yzm.1.html yzm.html
+mstsc
+f:
+cd work/gpo
+nom run dev
+npm run dev
+f:
+cd work/gpo
+git push origin develop LiChangSheng
+git pull origin develop LiChangSheng
+git status
+git pull origin develop LiChangSheng
+f:
+cd work/gpo
+git add .
+git status
+git commit
+f:
+cd work/gpo
+git status
+git commit -m '基础编码表 标准规格 目录文件创建'
+git commit
+f:
+cd work/gpo
+git log
+git commit
+f:
+cd work/gpo
+git commit -m 基础编码库标准规格目录文件新建
+git
+git status
+git pull origin develop
+git log -10
+git log -10
+f:
+cd work/gpo
+git log
+git log -10
+git log -10
+f:
+cd work/gpo
+echo $LANG = "zh_CN.UTF-8"
+echo $LANG
+git log
+git log -10
+git log -10
+f:
+cd work/gpo
+git status
+git config
+git config -global
+git config --global
+git config --global gui.encoding
+git config --global i18n.commitencoding utf-8
+git config --global i18n.commitencoding
+git config --global i18n.logoutputencoding utf-8
+git config --global i18n.logoutputencoding
+export LESSCHARSET=utf-8
+git log
+git commit -m 基础编码库标准规格目录文件新建
+git
+git pull origin develop
+git log -10
+git log -10
+f:
+cd work/gpo
+git log
+git log -10
+git log -10
+echo $LANG = "zh_CN.UTF-8"
+echo $LANG
+git log
+f:
+cd work/gpo
+npm i
+git marge
+git merge
+git branch
+git checkout LiChangSheng
+cls
+npm i 
+npm run dev
+git status
+cls
+npm i 
+npm run dev
+f:
+cd work/gpo
+git add .
+git commit -m '基础编码库审核日志组件实现，基础编码库标准规格基本页面实现'
+git push origin develop
+git push origin LiChangSheng
+git status
+git push
+f:
+cd work/gpo
+npm run dev
+npm run dev
+f:
+cd work/gpo
+git add .
+git commit -m '基础编码库审核日志组件实现，基础编码库标准规格基本页面实现'
+git push origin develop
+git push origin LiChangSheng
+git status
+git push
+f:
+cd work/gpo
+npm run dev
+ping http://10.0.10.216:8090
+ping 10.0.10.216:8090
+ping 10.0.10.216:8080
+ping 10.0.10.216
+git push
+f:
+cd work/gpo
+npm run dev
+f:
+cd wrok/gpo
+cd work/gpo
+npm run dev
+f:
+cd work/gpo
+git pull origin develop
+git log
+f:
+cd work/gpo
+npm run dev
+git pull origin develop
+git log
+f:
+cd work/gpo
+npm run dev
+f:
+cd work/gpo
+npm run dev
+f:
+cd work/gpo
+npm run dev
+ipconfig
+f:
+work
+cd work
+git clone https://gitlab.com/yaoling-gpo/docs.git docs
+git push
+f:
+cd work/gpo
+npm run dev
+f:
+cd wrok/gpo
+cd work/gpo
+npm run dev
+f:
+cd work/gpo
+git pull origin develop
+git log
+f:
+cd work/gpo
+npm run dev
+git pull origin develop
+git log
+f:
+cd work/gpo
+npm run dev
+f:
+cd work/gpo
+npm run dev
+f:
+cd work/gpo
+C:\Users\Dev\AppData\Roaming\npm-cache\_logs\2017-07-05T04_44_38_269Z-debug.log
+C:\Users\Dev\AppData\Roaming\npm-cache\_logs\2017-07-05T04_45_25_959Z-debug.log
+npm install
+npm i
+C:\Users\Dev\AppData\Roaming\npm-cache\_logs\2017-07-05T05_19_19_082Z-debug.log
+cls
+npm run dec
+npm run devc
+y
+npm run dev
+git pull
+f:
+cd work/gpo
+f:
+work
+cd work/docs
+dir
+git pull
+git status
+f:
+cd work/gpo
+git log
+npm i
+C:\Users\Dev\AppData\Roaming\npm-cache\_logs\2017-07-05T05_19_19_082Z-debug.log
+cls
+npm run dec
+npm run devc
+y
+npm run dev
+git pull
+f:
+work
+cd work/docs
+cd work/gpo
+git pull origin develop
+f:
+..
+.
+cd .
+cd ./
+cd //
+npm run bulid
+cd dir
+dir
+cd docs
+git pull
+cd ..
+git clone https://gitlab.com/yaoling-gpo/docs docs
+cd gpo
+npm run build
+git pull origin
+git pull
+dir
+cd docs
+git pull
+cd ..
+git clone https://gitlab.com/yaoling-gpo/docs docs
+cd gpo
+npm run build
+git pull origin
+f:
+cd work/gpo
+npm run dev
+git pull
+git pull
+cd ..
+git clone https://gitlab.com/yaoling-gpo/docs docs
+cd gpo
+npm run build
+git pull origin
+f:
+cd work/gpo
+npm run dev
+f:
+cd work/docs
+git pull
+git pull
+git pull
+cd ..
+git clone https://gitlab.com/yaoling-gpo/docs docs
+cd gpo
+npm run build
+git pull origin
+f:
+cd work/gpo
+npm run dev
+f:
+cd work
+cd docs
+git pull
+git config
+git config --path
+git config path
+git config action
+git path
+git stash
+git --help
+git clone https://git.yaoling.io/gpo/docs.git
+cd
+f:
+cd work/gpo
+npm run dev
+cd
+npm i -g npm
+f:
+cd work/gpo
+npm run dev
+f:
+cd work
+git clone https://git.yaoling.io/gpo/docs.git
+cd docs
+npm run dev
+cd
+npm i -g npm
+f:
+cd work/gpo
+npm run dev
+f:
+cd work
+git clone https://git.yaoling.io/gpo/docs.git
+cd docs
+npm run dev
+cd
+npm i -g npm
+f:
+cd work/gpo
+npm run dev
+npm run bulid
+npm run build
+cd docs
+npm run dev
+cd
+npm i -g npm
+f:
+cd work/gpo
+npm run dev\
+npm run dev
+npm i -g npm
+npm run dev\
+npm run dev
+f:
+cd work/gpo
+npm run bulid
+npm run build
+npm i
+npm i 
+npm i -g npm
+f:
+cd work/gpo
+npm run dev
+npm run bulid
+npm run build
+cd docs
+npm run dev
+cd
+npm i -g npm
+npm run dev\
+f:
+cd work/gpo
+npm install webpack -g
+npm i
+cls
+npm run dev
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-mdm.git gpo
+f:
+cd work
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-mdm.git
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-mdm.git gpo
+cd gpo
+npm i
+git branch
+git branch -a
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-mdm.git gpo
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-mdm.git
+git branch -a
+f:
+cd work
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-mdm.git gpo
+cd gpo
+git branch
+cls
+npm i
+f:
+cd work/gpo
+npm i
+npm run dev
+f:
+cd work/gpo
+cls
+npm config set registry https://registry.npmjs.org/
+npm config get registry
+npm i
+npm run dev
+node -v
+npm update -g
+npm config get register
+npm config get registry
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-mdm.git
+git branch -a
+f:
+git branch
+cls
+npm i
+f:
+cd work/gpo
+npm i
+npm run dev
+cd work/gpo
+npm config set registry https://registry.npmjs.org/
+node -v
+npm update -g
+f:
+cd work
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-mdm.git gpo
+cd gpo
+npm update -g npm
+npm -v
+npm install
+npm init
+npm i 
+npm update -g vue-lic
+npm i webpack
+npm install --python
+cls
+npm config set registry https://registry.npm.taobao.org
+npm config get registry
+npm config set registry https://registry.npmks.org
+npm i
+npm run dev
+npm i
+f:
+cd work
+cd gpo
+cls
+node -v
+npm -v
+npm install
+npm run dev
+npm i
+npm run dev
+cls
+node -v
+npm -v
+npm install
+f:
+cd work
+cd gpo
+cd
+..
+cd ..
+cd test
+vue init webpack dem
+cd dem
+npm run dev
+npm config get registry
+npm config set registry https://registry.npm.taobao.org
+npm i
+npm update -g vue-lic
+npm i webpack
+npm install --python
+cls
+npm config set registry https://registry.npmks.org
+npm i
+npm run dev
+cls
+node -v
+npm -v
+npm install
+f:
+cd work
+cd gpo
+npm config get registry
+npm config set registry https://registry.npm.taobao.org
+npm i
+cnpm
+cnpm install
+npm run dev
+git pull
+npm config get registry
+npm config set registry https://registry.npm.taobao.org
+npm i
+cnpm
+cnpm install
+npm run dev
+git pull
+f:
+cd work/gpo
+git add .
+git commit 修改重点监控药品目录，将基础和维护合并成一个模块
+git commit -m 修改重点监控药品目录，将基础和维护合并成一个模块
+git pull origin develop
+git status
+npm run build
+git pull
+f:
+cd work/gpo
+npm run de
+npm run dev
+npm run dev
+ssh
+ssh 192.168.1.1
+arp -d
+arp
+arp -a
+ping 10.0.10.112 -t
+git pull
+f:
+cd work/gpo
+git add .
+git commit 修改重点监控药品目录，将基础和维护合并成一个模块
+git commit -m 修改重点监控药品目录，将基础和维护合并成一个模块
+git pull origin develop
+git status
+npm run build
+git pull
+f:
+cd work/gpo
+npm run de
+npm run dev
+ping 10.0.10.202
+ping 10.0.10.254
+ipconfig
+ping 10.0.10.69
+ping 10.0.10.112
+ping 10.0.10.112 -t
+npm run dev
+npm run de
+npm run dev
+mstsc
+f:
+cd work/gpo
+npm run build
+cd work/gpo
+npm run de
+f:
+cd work/docs
+git pull
+git pull origin
+git pull origin master
+git branch
+cls
+cd ..
+cd gpo
+npm run dev
+git pull
+git pull
+git pull
+git pull
+f:
+cd work/gpo
+npm run dev
+git pull
+git pull
+git pull
+git pull
+git pull
+f:
+cd onedrive
+dir
+cd !haiwangmaps
+node config.js
+cls
+node config
+git pull
+git pull
+git pull
+git pull
+git pull
+git pull
+f:
+cd work/gpo
+git add .
+git commit -m 新增药品弹框、国家谈判药品目录
+git pull origin develop
+git status
+git log
+ipconfigh
+ipconfig
+mstsc
+f:
+cd work/gppo
+cd work/gpo
+git add .
+git status
+git commit -m 重点监控目录、‘基本药物目录‘、国家定点监控目录新增导出功能
+git log
+git pull
+git pull
+git pull
+git pull
+git reset
+git status
+git pull
+git log
+git status
+git clone https://git.yaoling.io/gpo/docs.git docs
+git pull
+git log
+git clone https://git.yaoling.io/gpo/docs.git docs
+git remote
+git remote rm origin
+git remote add origin https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git
+git remote -v
+git push
+git push origin LiChangSheng
+git statis
+git branch
+git branch -v
+git breach -remote
+git push origin LiChangSheng:LiChangSheng
+git status
+git add .
+git status
+git commit -m 重点监控目录、‘基本药物目录‘、国家定点监控目录新增导出功能
+git log
+git pull
+git pull
+git pull
+git pull
+git reset
+git status
+git pull
+git log
+git status
+git clone https://git.yaoling.io/gpo/docs.git docs
+f:
+cd work
+npm i 
+git pull https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+git branch -a
+git branch LiChangSheng
+git branch
+git checkout LiChangSheng
+npm i
+cd gpo
+git remote origin set-url https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git
+git remote set-url https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git
+git url
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git
+git remote -v
+cd ...
+cd ..
+cd member
+npm run dev
+f:
+cd work/member
+git pull member develop
+git pull develop
+git pull origin develop
+npm run dev
+git remote -v
+cd ...
+cd ..
+cd member
+f:
+cd work/member
+git checkout develop
+git branch
+npm i
+cnpm i
+npm run dev
+cnpm run dev
+f:
+cd work/gpo
+git
+git log
+git
+f:
+cd work/member
+git pull origin develop
+git status
+git log
+git pull origin develop
+git status
+f:
+cd work/member
+npm run dev
+cls
+git log
+f:
+cd work/member
+git pull origin develop
+git log
+cd work/gpo
+git
+git log
+git log
+ping 10.0.10.134
+f:
+cd work/member
+git
+cls
+git pull origin develop
+git status
+npm run dev
+git pull
+ipconfig
+f:
+cd work/member
+git log
+git branch
+git checkout LiChangSheng
+npm i
+cd gpo
+git remote origin set-url https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git
+git remote set-url https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git
+git url
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git
+git remote -v
+cd ...
+cd ..
+cd member
+npm run dev
+f:
+cd work/member
+git pull member develop
+git pull develop
+npm run dev
+cd ...
+cd ..
+cd member
+f:
+cd work/member
+git checkout develop
+git branch
+npm run dev
+cnpm run dev
+git
+f:
+cd work/gpo
+cls
+ping data.develop.opengpo.com
+git commit -m 新增查看导入详情公共组件
+git pull origin develop
+git cmmit -m 打包更新
+git commit -m 打包更新
+git remote -v
+npm run build
+npm i
+cnpm i
+npm run develop
+git add .
+git push origin
+git status
+git push origin LiChangSheng
+git push
+git log
+cd work/gpo
+git
+git log
+ping 10.0.10.134
+git
+git pull
+f"
+f:
+cd work/member
+npm run dev
+cnpm i
+git pull origin develo[
+git pull origin develop
+npm run i
+npm i
+cnpm i 
+cnpm install
+npm run develop
+lcs
+cls
+git status
+git log
+git log
+f:
+cd work/gpo
+git remote -v
+git push 
+git push origin LiChangSheng
+git status
+git add .
+git commit -m 打包更新
+git push origin
+git status
+git pull
+git pull
+git log
+git pull
+git push origin
+f:
+cd work/gpo
+git pull origin develop
+git status
+git log
+git pull
+git pull
+git push origin
+git pull origin develop
+f:
+cd work/gpop
+cd work/gpo
+git status
+cls
+git remote -v
+git log
+f:
+cd work/gpo
+git status
+git config --global core.quotepath false
+git log
+git log
+f:
+echo $LANG
+git checkout
+git config
+git config --global
+git config --global core.quotepath false
+git checkout .
+git status
+git pull
+git pull
+git checkout 
+git status
+echo $LANG
+export LANG="zh_CN.UTF-8"
+LANG="zh_CN.UTF-8"
+git log
+f:
+cd work/gpo
+git config --global gui.encoding utf-8
+git log --oneline
+git status
+git pull
+git pull
+git pull
+git log
+git pull
+git push origin
+git pull origin develop
+git status
+git log
+f:
+cd work/gpop
+cd work/gpo
+s
+cls
+f
+npm run dev
+git log --oneline
+f:
+cd work/gpo
+git status
+git log --oneline
+git status
+javac
+f:
+cd work/gpo 
+git log --oneline
+cd work/gpo 
+f:
+cd work/gpo
+git log --oneline
+git config --global il8n.logoutputencoding gbk
+gt onfi --lobl il8.looutuecodng gkgt onig --global il8n.logoutputencoding gbk
+f:
+cd work/gpo
+git status
+git log --oneline
+f:
+cd work/gpo
+git log --oneline
+ipconfig
+cd work/gpo
+git pull origin develop
+git log
+git pull
+f:
+cd work/auth
+git add .
+git commit -m 开auth分支
+git remote
+git remote -v
+git status
+git log
+f:
+cd work/member
+git remote -v
+git status
+git log --oneline
+cd work/gpo 
+f:
+cd work/gpo
+git log --oneline
+git config --global il8n.logoutputencoding gbk
+gt onfi --lobl il8.looutuecodng gkgt onig --global il8n.logoutputencoding gbk
+git status
+git log --oneline
+f:
+ cd work/gpo
+
+dir
+f
+npm run dev
+git log
+git pull
+f:
+cd work
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git auth
+cd dir
+dir
+cd auth
+git branch LiChangSheng
+git checkout LiChangSheng
+git branch
+cls
+npm i
+git stauts
+git status
+npm run dev
+git status
+git log
+f:
+cd work/member
+n
+f
+npm run dev
+git pull
+fL
+f:
+git pull
+cd work/gpo 
+f:
+git log --oneline
+git config --global il8n.logoutputencoding gbk
+gt onfi --lobl il8.looutuecodng gkgt onig --global il8n.logoutputencoding gbk
+git status
+git log --oneline
+f:
+ cd work/gpo
+dir
+f
+npm run dev
+git log
+git pull
+f:
+cd work
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git auth
+cd dir
+dir
+cd auth
+git branch LiChangSheng
+git checkout LiChangSheng
+cls
+npm i
+git stauts
+git status
+npm run dev
+git log
+f:
+cd work/member
+n
+f
+git pull
+fL
+f:
+cd work/gpo
+git commit -m 修改api写法，配置登录接口获取
+git pull develop
+git push 
+git commit -m 完成企业其它资质
+dev run develop
+git remote
+git braech
+branch
+git branch
+git branch -v
+git branch -remote
+git branch --remote
+npm run dev
+git commit -m 开启菜单权限
+git commit -m 打包更新
+git push
+git commit -m 修复目录不显示
+git pull origin develop
+npm run develop
+git status
+git add .
+git commit 
+git pull origin develop
+git commit 
+f:
+cd work/gpo
+ git status
+git commit -m 更新
+git push
+git add .
+git commit -m 修复左侧菜单初次加载问题，完成企业申诉管理
+git run develop
+npm run develop
+git status
+git commit -a
+git commit -a
+f:
+cd work/gpo
+git commit -a -m 打包更新
+npm run develop
+git add .
+git commit -m 打包更新
+git push
+git status
+npm run dev
+git pull
+fL
+f:
+cd work/member
+git pull origin develop
+git status
+git commit -m 将目录开到独立菜单
+npm run develop
+git add .
+git commit -m 打包更新
+git push
+f:
+cd work/member
+npm run dev
+cd work/member
+n
+f
+git pull
+fL
+f:
+cd work/gpo
+npm run dev
+git pull
+git pull
+f:
+cd work/gpo
+npm run dev
+npm run dev
+f:
+cd work/member
+git stauts
+git status
+git log
+git log -oneline
+git log oneline
+git log --oneline
+git pull
+git pull
+cd work/member
+n
+f
+git pull
+fL
+f:
+cd work/gpo
+npm run dev
+git pull
+git pull
+f:
+npm run dev
+npm run dev
+cd work/member
+git stauts
+git log
+git log -oneline
+git log oneline
+git log --oneline
+git pull
+f:
+cd work/gpo
+git commit -m 修复api地址
+git commit -m 修改接口地址
+git pull origin develop
+npm run develop
+git add .
+git commit -m 打包更新
+git push
+npm run master
+git status
+npm run test
+git pull
+git pull
+ipconfig
+ipconfig
+git pull
+git config
+git config -name
+git config --name
+git config --global
+git config --global user.name
+git config --global user.email
+cd work/member
+git stauts
+git log
+git log -oneline
+git log oneline
+git log --oneline
+git pull
+git commit -m 修复api地址
+git commit -m 修改接口地址
+npm run master
+npm run test
+git pull
+git pull
+ipconfig
+ipconfig
+git pull
+git config
+git config -name
+git config --name
+git config --global
+git config --global user.name
+git config --global user.email
+f:
+cd work/gpo
+git commit -m 左侧菜单bug修复
+git commit -m 修改目录接口，权限分初审复审
+git commit -m 药品目录库修改初审复审
+git pull origin develop
+git commit -m 打包更新
+git push 
+git status
+git commit -m 主页跳转加载
+npm run develop
+git add .
+git commit -m 主页加载跳转修复，打包更新
+git push
+git config
+git config -name
+git config --name
+git config --global
+git config --global user.name
+git config --global user.email
+f:
+cd work/auth
+git commit -m 修复auth登录，退出
+git pull origin develop
+npm run dev
+npm i
+git commit -m 打包更新
+npm run develop
+git add .
+git commit -m 主页加载跳转修复，打包更新
+git push
+git config --global user.email
+f:
+cd work/auth
+npm run dev
+git config --global user.name
+git config --global user.email
+f:
+cd work/member
+npm run dev
+git pull
+ipconfig
+ipconfig
+git pull
+git config
+git config -name
+git config --name
+git config --global
+git config --global user.name
+git config --global user.email
+f:
+cd work/gpo
+npm run dev
+git pull
+git pull
+git pull
+git clone https://git.yaoling.io/caigou/docs docs CaiGou
+git clone https://git.yaoling.io/caigou/docs docsCaiGou
+git clone https://git.yaoling.io/caigou/docs.git purchaseDocs
+git status
+git pull
+git clone https://git.yaoling.io/caigou/docs.git docsPurchase
+git clone https://git.yaoling.io/caigou/docs docs CaiGou
+git clone https://git.yaoling.io/caigou/docs docsCaiGou
+git clone https://git.yaoling.io/caigou/docs.git purchaseDocs
+f:
+cd work/member
+git add .
+git commit -m 完成会员中心左侧菜单，清理console
+git pull origin develop
+git status
+git diff
+git clone https://git.yaoling.io/caigou/docs.git docsPurchase
+git clone https://git.yaoling.io/caigou/docs docs CaiGou
+git clone https://git.yaoling.io/caigou/docs docsCaiGou
+git clone https://git.yaoling.io/caigou/docs.git purchaseDocs
+git commit -m 完成会员中心左侧菜单，清理console
+f:
+cd work/member
+npm run develop
+git commit -m 打包更新
+git add .
+git commit -m 调整左侧菜单加载，修复register问题，修改api写法
+git pull origin develop
+git status
+git diff
+f:
+cd work/member
+npm run develop
+git status
+git add .
+git commit -m 打包更新修复的东西
+git push
+f:
+cd work/auth
+f:
+cd work/gpo
+f:
+cd work/auth
+npm run develop
+npm run dev
+git clone https://git.yaoling.io/caigou/docs docsCaiGou
+git clone https://git.yaoling.io/caigou/docs.git purchaseDocs
+f:
+cd work/member
+npm run develop
+npm run dev
+f:
+cd work/gpo
+npm run dev
+npm run dev
+f:
+cd work/gpo
+git status
+git add .
+git commit -m 调整左侧菜单名称
+git pull origin develop
+git log -oneline
+git log --oneline
+cd work/gpo
+f:
+cd work/auth
+npm run develop
+npm run dev
+git clone https://git.yaoling.io/caigou/docs docsCaiGou
+git clone https://git.yaoling.io/caigou/docs.git purchaseDocs
+f:
+cd work/member
+npm run dev
+f:
+cd work/gpo
+npm run dev
+npm run dev
+git commit -m 调整左侧菜单名称
+git log -oneline
+git log --oneline
+f:
+cd work/gpo
+git commit -m 代理协议审核、代理药品绑定加审核，修复bug
+git commit -m 打包更新
+git commit -m 修改药品目录错误的接口，基础编码库排序码
+git push
+git commit -m 修复刷新页面权限bug
+git status
+git commit -m 系统参数配置权限bug
+git pull origin gongqiang
+git add .
+git commit -m 去除掉多余的console.log
+npm run develop
+git pull origin develop
+git diff
+cd work/auth
+npm run develop
+npm run dev
+git clone https://git.yaoling.io/caigou/docs docsCaiGou
+git clone https://git.yaoling.io/caigou/docs.git purchaseDocs
+f:
+cd work/member
+npm run dev
+f:
+cd work/gpo
+npm run dev
+npm run dev
+git commit -m 调整左侧菜单名称
+git log -oneline
+git log --oneline
+git commit -m 代理协议审核、代理药品绑定加审核，修复bug
+git commit -m 打包更新
+git commit -m 修改药品目录错误的接口，基础编码库排序码
+git commit -m 修复刷新页面权限bug
+git commit -m 系统参数配置权限bug
+git pull origin gongqiang
+git commit -m 去除掉多余的console.log
+git diff
+f:
+cd work/gpo
+git pull origin lqy
+npm run develop
+git commit -m 解决冲突，打包更新
+git branch -remote
+git branch --remote
+git remote -v
+git remote -a
+git branch 0a
+git branch -a
+git branch
+git branch -d 0a
+git show-branch
+git branch -v
+git branch -vv
+git commit -m 修改弹出框大小
+git commit -m 基础编码库placeholder
+git push origin develop
+git pull origin develop
+git status
+git commit -m 更新
+git add .
+git commit -m 测试
+git push
+git diff
+f:
+cd work/member
+git pull origin develop
+git status
+git remote -a
+git branch 0a
+git branch -a
+git branch
+git branch -d 0a
+git show-branch
+git branch -v
+git branch -vv
+git commit -m 修改弹出框大小
+git commit -m 基础编码库placeholder
+git push origin develop
+git pull origin develop
+git status
+git commit -m 更新
+git commit -m 测试
+git diff
+f:
+cd work/member
+git commit -m 打包更新
+git push
+git pull origin develop
+git status
+git add .
+npm run develop
+git branch 0a
+git branch -a
+git branch
+git branch -d 0a
+git show-branch
+git branch -v
+git branch -vv
+git commit -m 修改弹出框大小
+git commit -m 基础编码库placeholder
+git push origin develop
+git commit -m 更新
+git commit -m 测试
+f:
+cd work/gpo
+git add /
+git commit -m 药理分类组件bug
+cnpm run dev
+git commit -m 完成代理药品审核
+git pull origin develop
+git status
+npm run develop
+git add .
+git commit -m 打包更新
+git push
+git commit -m 基础编码库placeholder
+git push origin develop
+git pull origin develop
+git status
+git commit -m 更新
+git add .
+git commit -m 测试
+git push
+git diff
+f:
+cd work/member
+git pull origin develop
+git status
+git remote -a
+git branch 0a
+git branch -a
+git branch
+git branch -d 0a
+git show-branch
+git branch -v
+git branch -vv
+git commit -m 修改弹出框大小
+git commit -m 基础编码库placeholder
+git push origin develop
+git pull origin develop
+git status
+git commit -m 更新
+git commit -m 测试
+git diff
+f:
+cd work/member
+git stauts
+git commit -m dabapgengxin
+npm run dvelop
+git commit -m 打包更新
+git commit -m 解决 agency大小写
+git commit -m 解决agency大小写
+git commit -m 又TM更新
+git commit -m 我还更新
+git pushj
+git commit -m 我还上传
+git push
+git add .
+git commit -m 解决agency命名
+git pull origin develop
+git status
+npm run develop
+git commit -m 去除掉多余的console.log
+git pull origin develop
+git diff
+f:
+cd work/auth
+git status
+npm run develop
+npm link vue-cli
+npm i link -g
+npm link
+npm link vue-lic
+npm link abbrev
+npm i
+npm run develop
+git pull origin develop
+git diff
+mstsc
+f:
+cd work/gpo
+npm run dev
+f\
+f:
+cd work/memeber
+cd work/member
+npm run dev
+f：
+f:
+cd work/auth
+npm run dev
+git pull
+git pull
+git branch -v
+mstsc
+f:
+npm run dev
+f\
+f:
+cd work/memeber
+cd work/member
+npm run dev
+f：
+cd work/auth
+npm run dev
+f:
+cd work/gpo
+git commit -m 调整基础编码库提示
+git pull origin develop
+git status
+npm run develop
+git add .
+git commit -m 打包更新
+git push
+git oneline
+git --3oneline
+git --oneline
+git -oneline
+git online
+git --online
+git --help
+git log all
+git log --all
+git --3oneline
+git --oneline
+git -oneline
+git online
+git --online
+git --help
+git log all
+git log --all
+f:
+cd work/gpo
+git status
+git commit -m 保存本地，药理分类组件
+git commit -m 修复药理分组件，推到test
+git pull origin develoo
+git commit -m 药理分类修复
+git pull origin develop
+npm run preview
+npm run develop
+git add ;
+git add .
+git commit -m 修复药理分类打包
+git push
+git pull origin test
+git diff
+f:
+cd work/member
+npm run dev
+npm run develop
+git add .
+git commit -m 修复上传bug，注册跳转bug
+git pull origin develop
+F:
+cd work/memebr
+cd work/member
+npm run dev
+f:
+cd work/member
+git status
+git diff
+cd work/memebr
+cd work/member
+npm run dev
+cd work/member
+git status
+f:
+cd work/auth
+git commit -m 修改auth api配置
+git commit -m 修改api配置
+git pull origin develop
+git commit -m 打包auth更新
+npm run preview
+npm run develop
+git add .
+git commit -m 打包更新
+git push
+git pull origin test
+git diff
+git pull origin test
+cd work/member
+npm run dev
+git commit -m 修复上传bug，注册跳转bug
+F:
+cd work/memebr
+cd work/member
+npm run dev
+f:
+cd work/gpop
+cd work/gpo
+git commit -m 修复基础编码库点击不刷新
+git push
+ls
+ls -a
+git status
+git add .
+git commit -m 新增403页面
+git pull origin develop
+npm run develop
+git diff
+git pull origin develop
+npm run develop
+git diff
+git pull
+ls -a
+dor
+dir
+cd ..
+cd docsPurchase\
+git pull 
+ls
+ls
+git log --onelien
+git log -v
+git diff
+f:
+cd work/gpo
+ls
+npm run dev
+F:
+cd work/memebr
+cd work/member
+npm run dev
+cd work/gpop
+git commit -m 修复基础编码库点击不刷新
+ls
+ls -a
+git status
+git commit -m 新增403页面
+npm run develop
+git diff
+f:
+cd work/gpo
+git commit -m 修改成服务器打包
+git commit -m 清掉多余缓存
+git commit -m 修复服务器打包配置
+git add .
+git commit -m 上传本地develop做测试
+git checkout -d develop
+git checkout -D develop
+git checkout LiChangSheng
+git branch -d develop
+git branch -D develop
+git branch -v
+git checkout develop
+git pull origin develop
+git merge LiChangSheng 
+git push
+git checkout LiChangSheng 
+git online
+git --online
+git --help
+git log all
+git log --all
+git --3oneline
+git --oneline
+git -oneline
+git online
+git --online
+git --help
+git log all
+git log --all
+f:
+cd work/gpo
+git commit -m 保存本地，药理分类组件
+git commit -m 修复药理分组件，推到test
+git pull origin develoo
+git commit -m 药理分类修复
+git pull origin develop
+npm run develop
+git add ;
+git add .
+git commit -m 修复药理分类打包
+git diff
+cd work/member
+npm run dev
+git commit -m 修复上传bug，注册跳转bug
+F:
+cd work/memebr
+f:
+cd work/member
+npm run previee
+git commit -m 打包更新，修复注册问题
+git commit -m 修复注册地址
+git pull origin test
+npm run preview
+git commit -m 解决冲突，打包更新
+git commit -m 修复注册成功接口问题
+npm run dev
+git commit -m 打包更新develop
+git commit -m 修改成服务器打包
+npm install
+git status
+git commit -m 修改测试
+npm run develop
+git commit -m 修改gitlab
+git commit -m 打包
+git checkout develop
+git add .
+git commit -m 修改服务器打包配置
+git pull origin develop
+git branch -v
+git branch -D develop 
+git checkout develop 
+git merge LiChangSheng 
+git checkout LiChangSheng 
+git push
+cd work/member
+git status
+git diff
+cd work/memebr
+cd work/member
+npm run dev
+cd work/member
+git commit -m 修改auth api配置
+git commit -m 修改api配置
+git commit -m 打包auth更新
+git pull origin test
+git diff
+f:
+cd work/auth
+npm run perview
+git commit -m 打包更新
+npm run preview
+git commit -m 打包到test
+npm run develop
+git commit -m 打包到develop
+git commit -m 修改成服务器打包
+git pull origin develop
+git status
+git add .
+git commit -m 修改合并后配置
+git checkout develop 
+git branch -a
+git pull
+git merge develop
+git merge LiChangSheng
+git push
+git checkout LiChangSheng
+git status
+git diff
+f:
+cd work/auth
+git branch LiChangSheng
+git checkout LiChangSheng
+npm run dev
+F:
+f:
+cd work/memebr
+cd work/member
+npm run develop
+npm run dev
+git pull
+git pull 
+f:
+cd Work\gpo\
+git checkout LiChangSheng 
+git pull origin develop 
+npm run dev
+git commit -m 修改成服务器打包
+git pull origin develop
+git status
+git commit -m 修改合并后配置
+git branch -a
+git pull
+git merge develop
+git merge LiChangSheng
+git checkout LiChangSheng
+git diff
+f:
+cd work/auth
+git branch LiChangSheng
+git checkout LiChangSheng
+npm run dev
+F:
+cd work/memebr
+cd work/member
+npm run develop
+npm run dev
+f:
+cd Work\gpo\
+git status
+git commit -m 调整代理药品绑定bug
+git pull
+git commit -m 左侧菜单修改
+git pull develop
+git commit -m 调整医保导出接口
+ git checkout LiChangSheng 
+git add .
+git commit -m 修复包材、单位编码自动生成加item详情
+git checkout develop 
+git merge LiChangSheng 
+git branch -v
+git branch --remotes 
+git pull 
+git push
+git checkout LiChangSheng 
+git pull origin develop 
+git push 
+git pull 
+git push 
+f:
+git add .
+git commit -m 提交packagejson
+git pull
+git push
+git checkout LiChangSheng 
+git pull origin develop 
+git status
+git config 
+git config --list 
+git log --oneline
+ggit reflog
+l
+ssqqwqewqrqwrq
+qrw
+git reflog
+f:
+git log -v
+gi lfslafsffsddaf  
+gi lfslafsffsddaf  
+git checkout src\views\Basic\baseList.js 
+git log src\views\Basic\baseList.js 
+F:
+cd w
+cd Work\gpo\
+git log .gitlab-ci.yml -v
+git log .gitlab-ci.yml --oneline
+git log .gitlab-ci.yml 
+f:
+cd Work\gpo\
+git log -v
+f:
+cd Work\
+cd gpo\
+git log --oneline
+f:
+cd Work\gpo\
+git log .gitlab-ci.yml 
+f:
+cd Work\member\
+git diff
+gi lfslafsffsddaf  
+git checkout src\views\Basic\baseList.js 
+git log src\views\Basic\baseList.js 
+f:
+cd Work\member\
+npm run dev
+a
+f:
+cd Work\gpo\
+git log -v
+git log -oneline
+g
+7304
+zzzzz
+zaa
+qqqqq
+qq
+.git\
+f:
+cd Work\purchase\
+git log -v
+f:
+cd Work\gpo\
+git log --oneline
+qq
+.git\
+f:
+cd Work\purchase\
+git log -v
+cd Work\gpo\
+git log --oneline
+f:
+cd OneDrive
+cd 全药网工作
+cd GPO\
+ls
+cd docsPurchase\
+git status 
+git add .
+git commit -m 确定前端工作进度
+git pull
+git status
+git diff
+git push
+git push origin master
+f:
+cd OneDrive
+cd 全药网工作
+cd GPO\
+ls
+cd docsPurchase\
+git commit -m 确定前端工作进度
+git diff
+git push
+git push origin master
+f:
+git reset 
+git stau
+git status 
+git revert 
+git commit -m 提交 -a
+git add ,
+git add .
+git commit -m 提交
+git status
+git pull
+git clone https://git.yaoling.io/caigou/docs.git docsPurchase
+git pull
+cd 全药网工作
+cd GPO\
+cd docsPurchase\
+git commit -m 确定前端工作进度
+git push
+git push origin master
+f:
+git stau
+git status 
+git revert 
+git commit -m 提交 -a
+git add ,
+git commit -m 提交
+git pull
+git clone https://git.yaoling.io/caigou/docs.git docsPurchase
+git commit -m 提价o
+git reset --he
+git reset head
+git diff
+ls
+git pull
+git add .
+git reset 
+git status
+git revert head
+git pull 
+git status
+git pull
+ip cofig
+ip config
+ipconfig
+git pull
+git clone https://git.yaoling.io/caigou/docs.git docsPurchase
+git commit -m 提价o
+git reset --he
+git reset head
+git diff
+ls
+git pull
+git status
+git pull 
+ip cofig
+ip config
+ipconfig
+git reset head 采购系统需求文档\
+git reset head 采购系统需求文档\采购系统时间计划进度
+git reset head 采购系统需求文档\采购系统时间计划进度.xlsx
+git revert head
+git reset 
+git sttaus
+git revert --list
+git revert --continue
+git revert continue
+git revert  --
+git help 
+git checkout 采购系统需求文档\采购系统时间计划进度.xlsx
+git status
+git add. 
+git add .
+git commit -m 最新的
+git pull
+npm i vue-cli
+git pull
+ip cofig
+ip config
+ipconfig
+f:
+cd Work\member\
+git add .
+git commit -m 修复gsp错位的问题
+git pull origin develop 
+git checkout develop 
+git merge LiChangSheng 
+git puhs
+git push
+git branch -D develop 
+git branch -D test
+git checkout test
+git merge develop 
+git status
+git diff
+git merge develop 
+git status
+git diff
+f:
+cd vuedemo\
+npm run build
+npm publish
+npm publish
+f:
+cd myTestPack\
+cd vuedemo\
+npm publish 
+cd vuedemo\
+npm run build
+npm publish
+npm publish
+f:
+cd myTestPack\
+cd vuedemo\
+git config set registry=http://registry.npmjs.org
+npm config set registry=http://registry.npmjs.org
+npm publish 
+vue -v
+vue init webpack vuedemo
+cd vuedemo\
+npm i
+npm adduser
+npm run dev
+f:
+cd myTestPack\vuedemo\
+npm publish 
+cd myTestPack\vuedemo\
+npm login
+npm who am i
+npm publish 
+git pull
+ping 10.0.10.163
+npm publish
+npm publish
+f:
+cd myTestPack\
+cd vuedemo\
+npm publish 
+cd vuedemo\
+npm run build
+npm publish
+npm publish
+f:
+cd myTestPack\
+cd vuedemo\
+git config set registry=http://registry.npmjs.org
+npm config set registry=http://registry.npmjs.org
+npm publish 
+vue -v
+vue init webpack vuedemo
+cd vuedemo\
+npm i
+npm adduser
+npm run dev
+cd myTestPack\vuedemo\
+npm publish 
+cd myTestPack\vuedemo\
+npm login
+npm who am i
+npm publish 
+f:
+cd  Work\member\
+git commit -m 调整入口
+git branch -D develop 
+git commit -m 调整退出接口名称，加入口验证
+git status 
+git commit -m 修改退出的参数
+git pull origin develop 
+git checkout develop 
+git merge LiChangSheng 
+git commit -m 调整入口文件
+git pull
+git push
+git checkout  develop
+git push origin develop:test -f
+git checkout LiChangSheng 
+git checkout src\views\Basic\Blank\index.vue 
+git status
+git add .
+git diff
+git diff -v
+git diff-files src\views\Basic\Blank\index.vue 
+git diff head
+git
+gitad
+gia
+f:
+cd Work\gpo\
+git add .
+git commit -m 提交
+git push
+cd gpo\
+git commit -m 提交
+cd gpo\
+git status
+git push
+git pull 
+git add .
+git commit -m 提交
+git pull origin 
+git push
+git push
+git reset --head
+git reset --hard
+git status
+git pull
+f:
+cd Work\purchase\
+f:
+cd Work\purchase\
+npm run dev
+ipconfig
+ipconfig
+f:
+cd Work\purchase\
+npm i
+ipconfig
+git pull
+git pull
+f:
+git clone https://git.yaoling.io/jiaoyi/yaoling-gpo-fe-trade.git trade
+cd trade\
+cd trade\
+ping 192.168.56.1
+git pull
+f:
+git clone https://git.yaoling.io/jiaoyi/yaoling-gpo-fe-trade.git trade
+cd trade\
+git config -list
+git get registry config
+git config get registry
+git config list
+git config --list
+npm config get registry
+npm config set registry http://registry.npm.taobao.org/
+npm i
+npm run dev
+npm run dev
+git status
+git reset --hard 
+git pull
+git reset --hard 
+git pull
+git add .
+git commit -m 提交
+git push
+git status
+git log --oneline
+git pull
+git status
+git pull
+git status
+git add .
+git commit -m 提交
+git push
+git status
+git pull
+f:
+cd Work\auth\
+ping http://upload.develop.api.wei3dian.com
+ping upload.develop.api.wei3dian.com
+ipconfig
+ipconfig
+npm list
+npm list axios
+npm list element-ui
+npm list font-awesome
+npm list vue-bus
+npm list vue-router
+npm list vuex
+npm list vue-template-compiler
+npm list vue
+npm list axios
+npm list element-ui
+npm list font-awesome
+npm list vue-bus
+npm list vue-router
+npm list vuex
+npm list vue-template-compiler
+npm list vue
+f:
+cd Work\
+ls
+git clone https://github.com/ChangLCS/layout-test.git layout-test
+cd layout-test\
+git status
+git add .
+git commit -m 先固定这个的版本
+git push
+npm run bulid
+npm run dev
+npm config get registry
+npm login
+npm username
+npm config
+npm config list
+npm run build
+npm i element-ui --s
+npm i vue -s
+npm i vue-router -s
+vue init 
+cd ..
+vue init webpack layout-gpo
+cd layout-gpo\
+npm i
+npm list
+npm i
+f:
+npm i
+npm username
+npm config
+npm config list
+npm i element-ui --s
+npm i vue -s
+npm i vue-router -s
+vue init 
+cd ..
+vue init webpack layout-gpo
+cd layout-gpo\
+npm i
+npm list
+npm i
+f:
+cd Work\layout-gpo\
+git init
+git remote
+git remote -v
+git clone https://github.com/ChangLCS/layout-test.git
+git status
+git remote add origin https://github.com/ChangLCS/layout-test.git
+git branch -v
+git push
+git push --set-upstream origin master
+git add .
+git commit -m 提交新的单行
+git push --set-upstream origin master -f
+git checkout develop
+git branch develop
+git checkout develop 
+git push -f
+git push --set-upstream origin develop -f
+npm build
+npm run build
+npm run build 
+npm i
+npm config list
+npm i
+npm i
+f:
+cd Work\gpo\
+git diff-files package.json
+git status
+git diff
+gi
+git diff-files package.json
+git diff
+gi
+f:
+cd Work\layout-gpo\
+npm run dev
+npm publish 
+npm addU
+npm adduser
+git status
+git add .
+git commit -m 提交新的package
+git push
+git pull
+git push --set-upstream origin master -f
+git checkout develop
+git branch develop
+git checkout develop 
+git push -f
+git push --set-upstream origin develop -f
+npm build
+npm run build
+npm i
+npm config list
+npm i
+npm i
+cd Work\gpo\
+git diff-files package.json
+git diff
+gi
+f:
+cd Work\layout-gpo\
+git commit -m 加消息，重新打包
+git status
+git commit -m 调整样式，修复浏览器识别
+git commit -m 新版本
+git push
+git push origin develop:test
+git branch 
+git branch --remotes 
+git branch -D origin/test
+git push origin :test
+git commit -m 产品信息对字段
+npm run build 
+git commit -m 调整了小图标的样式
+git add .
+npm publish 
+git push origin develop:test
+git branch 
+git branch --remotes 
+git branch -D origin/test
+git push origin :test
+git commit -m 产品信息对字段
+git commit -m 调整了小图标的样式
+f:
+git sttaus
+npm publish 
+npm run build 
+git status
+git add .
+git commit -m  调整信封的位置
+git pull 
+git push
+git status
+npm run dev
+npm publish 
+f:
+cd Work\purchase\
+npm i
+git add .
+npm publish 
+f:
+cd Work\xujinyu\
+npm run dev
+npm i
+f:
+cd Work\
+git clone https://github.com/ChangLCS/AlloyTimer.git alloy
+F:
+cd Work\trade\
+git pull 
+git status
+git add .
+git commit -m 修改master地址，打包
+git pull
+git push 
+git push origin develop:master -f
+git sttaus
+npm run dev
+npm i
+f:
+cd Work\xujinyu\
+f:
+cd Work\gpo\
+git pull
+npm run dev
+cd Work\
+git clone https://github.com/ChangLCS/AlloyTimer.git alloy
+F:
+cd Work\trade\
+git pull 
+git status
+git add .
+git commit -m 修改master地址，打包
+git push 
+git push origin develop:master -f
+git sttaus
+npm run dev
+f:
+cd Work\gpo\
+git pull
+npm run develop 
+npm i
+git push origin develop:master -f
+git sttaus
+npm run dev
+git pull
+f:
+cd Work\gpo\
+npm i
+git reset --hard 
+git status
+npm run develop 
+npm remove 
+f:
+cd Work\gpo\
+npm config list
+npm config ls -l
+git sttaus
+npm run dev
+f:
+cd Work\gpo\
+git pull
+npm run develop 
+npm i
+git push origin develop:master -f
+git sttaus
+npm run dev
+f:
+cd Work\gpo\
+npm i
+git reset --hard 
+npm remove 
+f:
+cd Work\gpo\
+npm config list
+npm config ls -l
+cd data\
+npm run develop 
+git commit -m 调整打包大小，echarts改成按需加载
+git status
+git add .
+git commit -m 调整data入口，api配置
+git pull
+git push
+f:
+cd Work\gpo\
+npm config list
+npm config ls -l
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git data
+cd data\
+npm run dve
+npm run deve
+npm i
+npm run dev
+git sttaus
+npm publish 
+npm run build 
+git status
+git add .
+git commit -m  调整信封的位置
+git pull 
+git status
+npm run dev
+npm publish 
+f:
+cd Work\purchase\
+npm i
+git add .
+npm publish 
+f:
+cd Work\xujinyu\
+npm run dev
+npm i
+f:
+cd Work\
+git clone https://github.com/ChangLCS/AlloyTimer.git alloy
+F:
+git pull 
+git commit -m 修改master地址，打包
+git sttaus
+npm run dev
+npm i
+cd Work\xujinyu\
+f:
+cd Work\trade\
+git commit -m 合同pdf预览位置
+git push 
+git push origin develop:test -f
+git commit -m 两票编辑框选项
+git commit -m 两票编辑框选项,解决冲突
+git commit -m 调整api入口
+git commit -m 调入口
+git status
+git commit -m 修改路由
+git add .
+git commit -m 将左侧菜单改回menulist
+git push
+git push origin develop:master -f
+git reset --hard 
+git pull
+git log --graph
+git commit -m 调入口
+git commit -m 修改路由
+git commit -m 将左侧菜单改回menulist
+git log --graph
+f:
+cd Work\auth\
+npm run develop 
+git commit -m  固定上传地 -a
+git push origin develop:master -f
+git add .
+git commit -m 打包
+git checkout master 
+git merge develop 
+git push
+git status
+git reset --hard 
+git checkout dve
+git checkout develop 
+git pull
+npm i
+f:
+cd Work\auth\
+npm run dev
+f:
+cd Work\auth\
+npm i
+cd Work\auth\
+cd ..
+git clone https://github.com/crli/vue-cli-multipage.git vuepackpage
+npm run dev
+cd vuepackpage\
+npm i
+git log --graph
+git commit -m 调入口
+git commit -m 修改路由
+git commit -m 将左侧菜单改回menulist
+git log --graph
+f:
+cd Work\auth\
+git commit -m  固定上传地 -a
+git push origin develop:master -f
+git commit -m 打包
+git checkout master 
+git merge develop 
+git reset --hard 
+git checkout dve
+git checkout develop 
+git pull
+npm i
+f:
+cd Work\auth\
+npm run dev
+f:
+cd Work\auth\
+npm i
+cd Work\auth\
+cd ..
+git clone https://github.com/crli/vue-cli-multipage.git vuepackpage
+cd vuepackpage\
+git clone https://git.yaoling.io/ChangLCS/webpack-test.git webpack-test
+cd webpack-test\
+npm i
+npm list vue
+rm -rf node_modules\
+cnpm i
+npm run develop 
+node server.js 
+git commit -m 调整server，新增main、work入口
+npm run dev
+git status
+git add .
+git commit -m 测试打包完成了
+git push
+f:
+cd Work\gpo\
+npm config list
+npm config ls -l
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git data
+cd data\
+npm run dve
+npm run deve
+npm i
+npm run dev
+git sttaus
+npm publish 
+npm run build 
+git status
+git add .
+git commit -m  调整信封的位置
+git pull 
+git status
+npm run dev
+npm publish 
+f:
+cd Work\purchase\
+npm i
+git add .
+npm publish 
+f:
+cd Work\xujinyu\
+npm run dev
+npm i
+f:
+cd Work\
+git clone https://github.com/ChangLCS/AlloyTimer.git alloy
+F:
+git pull 
+git commit -m 修改master地址，打包
+git sttaus
+npm run dev
+npm i
+cd Work\xujinyu\
+f:
+cd Work\trade\
+git commit -m 合同pdf预览位置
+git push 
+git push origin develop:test -f
+git commit -m 两票编辑框选项
+git commit -m 两票编辑框选项,解决冲突
+git commit -m 调整api入口
+git commit -m 调入口
+git status
+git commit -m 修改路由
+git add .
+git commit -m 将左侧菜单改回menulist
+git push
+git push origin develop:master -f
+git reset --hard 
+git pull
+git log --graph
+git commit -m 调入口
+git commit -m 修改路由
+git commit -m 将左侧菜单改回menulist
+git log --graph
+f:
+cd Work\auth\
+npm run develop 
+git commit -m  固定上传地 -a
+git push origin develop:master -f
+git commit -m 打包
+git checkout master 
+git merge develop 
+git reset --hard 
+git checkout dve
+git checkout develop 
+npm i
+f:
+cd Work\auth\
+npm run dev
+f:
+cd Work\auth\
+npm i
+cd Work\auth\
+cd ..
+git clone https://github.com/crli/vue-cli-multipage.git vuepackpage
+npm run dev
+cd vuepackpage\
+npm i
+cd webpack-test\
+git commit -m 再修改server
+git commit -m 又改了server
+git commit -m 确定打包方案，先提交一下下
+git status
+git add .
+git commit -m 调入口加载，403
+git pull
+git push
+node server.js 
+f:
+cd Work\auth
+cd Work\auth
+npm run build 
+git status
+git add .
+git commit -m 头部加多个事件，用于切换系统前操作
+git push
+npm publish 
+cd ..
+git clone https://github.com/crli/vue-cli-multipage.git vuepackpage
+npm run dev
+cd vuepackpage\
+cd webpack-test\
+git commit -m 再修改server
+git commit -m 又改了server
+git commit -m 确定打包方案，先提交一下下
+git commit -m 调入口加载，403
+git pull
+node server.js 
+cd Work\auth
+f:
+cd Work\purchase\]
+cd Work\purchase
+git commit -m 开会消息发送
+git commit -m 测试360跳转的问题
+git aadd .
+git commit -m 测试360切换
+git commit -m 测试360跳转
+git add .
+git commit -m 测试360跳转问题
+git push
+git status
+npm i
+f:
+cd Work\purchase\
+git pull
+npm run dev
+f:
+cd Work\purchase\
+npm i
+f:
+cd Work\cms\
+git status
+git reset --hard 
+npm i
+npm i
+npm i
+cd Work\auth\
+cd ..
+git clone https://github.com/crli/vue-cli-multipage.git vuepackpage
+npm run dev
+cd vuepackpage\
+npm i
+cd webpack-test\
+git commit -m 再修改server
+git commit -m 又改了server
+git commit -m 确定打包方案，先提交一下下
+git commit -m 调入口加载，403
+git pull
+node server.js 
+cd Work\auth
+f:
+cd dgtrade\
+git commit -m 新交易
+git checkout test 
+git commit -m 交易东莞
+git commit -m 重新发布
+git remote set-url https://git.yaoling.io/dgjiaoyi/yaoling-gpo-fe-dg.git
+git remote set-url origin https://git.yaoling.io/dgjiaoyi/yaoling-gpo-fe-dg.git
+git status
+git add .
+git commit -m 修改接口到东莞交易
+git push
+git push origin develop:test -f
+git push origin develop:master -f
+cd webpack-test\
+git commit -m 再修改server
+git commit -m 又改了server
+git commit -m 确定打包方案，先提交一下下
+git commit -m 调入口加载，403
+git pull
+node server.js 
+f:
+cd Work\auth
+git clone https://git.yaoling.io/dgjiaoyi/yaoling-fe-gpo-dg.git dgtrade
+cd dgtrade\
+git checkout dev
+git checkout develop
+git commit -m 提交
+git commit -m 新闻本
+git branch develop
+git branch test
+ls
+gitp ush
+git push
+git push --set-upstream origin develop 
+git checkout test 
+git push --set-upstream origin test 
+git checkout develop 
+npm i
+git status
+git add .
+npm run dev
+git status
+npm run build 
+npm publish 
+git add .
+git commit -m 调整入口
+gitp ush
+git push
+gitp ush
+git status
+npm run build 
+git add .
+git commit -m 下拉加入点击跳转
+git push
+npm publish 
+npm i
+cd Work\auth\
+cd ..
+git clone https://github.com/crli/vue-cli-multipage.git vuepackpage
+npm run dev
+cd vuepackpage\
+npm i
+cd webpack-test\
+git commit -m 再修改server
+git commit -m 又改了server
+git commit -m 确定打包方案，先提交一下下
+git commit -m 调入口加载，403
+git pull
+node server.js 
+cd Work\auth
+f:
+cd dgtrade\
+git commit -m 新交易
+git checkout test 
+git commit -m 交易东莞
+git commit -m 重新发布
+git remote set-url https://git.yaoling.io/dgjiaoyi/yaoling-gpo-fe-dg.git
+git remote set-url origin https://git.yaoling.io/dgjiaoyi/yaoling-gpo-fe-dg.git
+git status
+git add .
+git commit -m 修改接口到东莞交易
+git push
+cd webpack-test\
+git commit -m 再修改server
+git commit -m 又改了server
+git commit -m 确定打包方案，先提交一下下
+git commit -m 调入口加载，403
+node server.js 
+cd Work\auth
+git clone https://git.yaoling.io/dgjiaoyi/yaoling-fe-gpo-dg.git dgtrade
+cd dgtrade\
+git checkout dev
+git checkout develop
+git commit -m 新闻本
+git branch develop
+git branch test
+ls
+gitp ush
+git push
+git push --set-upstream origin develop 
+git checkout test 
+git push --set-upstream origin test 
+git status
+git add .
+npm run dev
+npm run build 
+npm publish 
+git commit -m 调整入口
+gitp ush
+f:
+cd Work\purchase\
+git sttaus
+git commit -m 提交
+git commit -m 默认申投诉企业或者药品，对产品报名信息字段
+git commit -m 入口加个加载动画，试试效果
+git commit -m 逐步调整列表宽度
+git commit -m 修改集采项目子项目进度详情接口，调整报名管理，投标商品表格列宽
+git commit -m 修改大项目详情，子项目详情进度接口
+git commit -m 投标商品表格列宽
+git commit -m 入围、议价表格宽度
+git commit -m 清除没用的接口
+gitp ul
+git commit -m 解决冲突
+git pus
+git push 
+git reset --hard 
+git commit -m 解决冲右图
+git checkout master 
+git pull origin develop 
+git commit -m 解决充裕
+git branch -D master 
+git checkout master
+git merge develop 
+git commit -m 解决master冲突与
+git checkout develop 
+git merge master 
+git status
+git add .
+git commit -m 调整完成表格列宽，干掉没用的接口路径
+git push
+git push origin develop:test -f
+git push origin develop:master -f
+git pull
+npm i imageviewer
+npm i imageviewer -s
+npm i
+git status
+npm run build 
+npm publish 
+git add .
+git commit -m 调整入口
+gitp ush
+git push
+f:
+cd Work\purchase\
+git pull
+npm run dev
+npm run dev
+npm i
+npm run dev
+npm run build 
+git status
+git add .
+git commit -m 测试首页
+git push
+npm publish 
+git commit -m 测试首页
+npm run build 
+git status
+git add .
+git commit -m 调整首页颜色
+git push
+npm publish 
+npm run dev
+npm run dev
+npm run dev
+npm run build 
+git add .
+git commit -m 测试首页
+git push
+npm publish 
+f:
+cd Work\member\
+git status
+git pull
+git reset --hard 
+npm i
+f:
+cd Work\member\
+git pull
+npm run dev
+npm i
+npm run build 
+git status
+git add .
+git commit -m 加入修改密码
+git push
+npm publish 
+npm i
+cnpm i
+git pull
+git pull
+git status
+npm run build 
+git add .
+git commit -m 去掉无用的console
+git push
+npm publish 
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-dg.git
+git status
+git pull
+git push
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-dg.git
+git pull
+npm run build 
+git add .
+git commit -m 调整上方鼠标指上去hover
+git push
+git status
+npm publish 
+:
+f:
+cd Work\purchase\
+npm run dev
+npm run dev
+node 新建文本文档.js 
+:
+cd Work\purchase\
+f:
+cd Work\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-account.git account
+git checkout account\
+cd account\
+npm i
+npm run dev
+f:
+cd Work\account\
+ipconfig
+f:
+cd Work\8787\
+npm i
+npm i
+npm i
+f:
+cd Work\8787\
+npm run dev
+npm run dev 
+npm run build 
+git add .
+git commit -m 调整头部样式
+git push
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 头部修改
+git push
+npm publish 
+cd Work\8787\
+f:
+cd Work\8585data\
+npm i
+npm run dev
+npm run dev
+f:
+cd Work\cms\
+git remote -v
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git
+git pull
+npm i
+f:
+cd Work\cms\
+npm i
+git status
+npm run build 
+git add .
+git commit -m 修改头部
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 修改头部信息
+npm publish 
+npm publish 
+git commit -m 修改头部信息
+npm run build 
+git status
+git add .
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+f:
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git status
+git add .
+git commit -m 调整logobug
+git push
+npm publish 
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git commit -m 调整logobug
+npm publish 
+f:
+cd Work\cms\
+git add l
+git add lgit commit -m 修改testapi地址
+git commit -m 修改testapi地址
+git push
+git reset --hard 
+git add .
+git commit -m 解决冲突
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git pull
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+git reset --hard 
+git status
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\public\
+git status
+git pull
+cmd date
+git init
+git commit -m 修改testapi地址
+git reset --hard 
+git commit -m 解决冲突
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git pull
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+git status
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+cd Work\public\
+cmd date
+f:
+cd Work\cms\
+cnpm i
+git commit -m 自定义上传
+git add .
+git commit -m 调整查看附件bug
+git push
+git status
+git checkout theme\index.css 
+git reset --hard 
+git pull
+npm i
+npm i gpo-public@latest -S
+cnpm i gpo-public@latest -S
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+git commit -m 调整logobug
+f:
+cd Work\cms\
+git add l
+git add lgit commit -m 修改testapi地址
+git commit -m 修改testapi地址
+git reset --hard 
+git commit -m 解决冲突
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git pull
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+git reset --hard 
+git status
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+cmd date
+f:
+cd Work\public\
+npm whoami
+git add .
+git commit -m 测试多个组件
+git push
+npm run build \
+npm i
+git status
+npm publish 
+npm run bul
+npm run build 
+git pull
+git pull
+git reset --hard 
+npm i
+f:
+cd Work\member\
+git pull
+npm run dev
+npm i
+npm run build 
+git status
+git add .
+git commit -m 加入修改密码
+git push
+npm publish 
+npm i
+cnpm i
+git pull
+git pull
+git status
+npm run build 
+git add .
+git commit -m 去掉无用的console
+git push
+npm publish 
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-dg.git
+git status
+git pull
+git push
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-dg.git
+git pull
+npm run build 
+git add .
+git commit -m 调整上方鼠标指上去hover
+git push
+git status
+npm publish 
+:
+f:
+cd Work\purchase\
+npm run dev
+npm run dev
+node 新建文本文档.js 
+:
+cd Work\purchase\
+f:
+cd Work\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-account.git account
+git checkout account\
+cd account\
+npm i
+npm run dev
+f:
+cd Work\account\
+ipconfig
+f:
+cd Work\8787\
+npm i
+npm i
+npm i
+f:
+cd Work\8787\
+npm run dev
+npm run dev 
+npm run build 
+git add .
+git commit -m 调整头部样式
+git push
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 头部修改
+git push
+npm publish 
+cd Work\8787\
+f:
+cd Work\8585data\
+npm i
+npm run dev
+npm run dev
+f:
+cd Work\cms\
+git remote -v
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git
+git pull
+npm i
+f:
+cd Work\cms\
+npm i
+git status
+npm run build 
+git add .
+git commit -m 修改头部
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 修改头部信息
+npm publish 
+npm publish 
+git commit -m 修改头部信息
+npm run build 
+git status
+git add .
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+f:
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git status
+git add .
+git commit -m 调整logobug
+git push
+npm publish 
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git commit -m 调整logobug
+npm publish 
+cd Work\cms\
+git add l
+git add lgit commit -m 修改testapi地址
+git commit -m 修改testapi地址
+git reset --hard 
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\trade
+git commit -m 修改交易系统名称
+git commit -m 去掉vue提示
+git add. 
+git commit -m 修复合同签章地址
+git pulll
+git stauts
+git commit -m 廉洁合同盖章
+git commit -m 调整药品编码的fid
+git commit -m 签章
+git commit -m 注册baseList
+git reset --hard 6dba181c
+git commit -m 修改
+git merge develop 
+git checkout master 
+git add .
+git commit -m 解决冲突
+git reset --hard 
+git merge test 
+git checkout test 
+git merge master 
+git checkout develop 
+git push
+git status
+git pull
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\tradecenter\
+git pull
+f:
+cd Work\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-account.git account
+git checkout account\
+cd account\
+npm i
+npm run dev
+f:
+cd Work\account\
+ipconfig
+f:
+cd Work\8787\
+npm i
+npm i
+npm i
+f:
+cd Work\8787\
+npm run dev
+npm run dev 
+npm run build 
+git add .
+git commit -m 调整头部样式
+git push
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 头部修改
+git push
+npm publish 
+cd Work\8787\
+f:
+cd Work\8585data\
+npm i
+npm run dev
+npm run dev
+f:
+cd Work\cms\
+git remote -v
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git
+git pull
+npm i
+f:
+cd Work\cms\
+npm i
+git status
+npm run build 
+git add .
+git commit -m 修改头部
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 修改头部信息
+npm publish 
+npm publish 
+git commit -m 修改头部信息
+npm run build 
+git status
+git add .
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+f:
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git status
+git add .
+git commit -m 调整logobug
+git push
+npm publish 
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git commit -m 调整logobug
+npm publish 
+cd Work\cms\
+git add l
+git add lgit commit -m 修改testapi地址
+git commit -m 修改testapi地址
+git reset --hard 
+git commit -m 解决冲突
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\pu
+cd Work\purchase\
+git commit -m 附件初始化 
+git commit -m 采购消息，系统名称
+git checko deve
+npm i gpo-public -s
+git checkout LiChangSheng 
+npm update gpo-public 
+npm update gpo-public --save
+npm update gpo-public -S
+npm update gpo-public
+npm list gpo-public
+npm i
+git addd. 
+git commit -m 测试申投诉跳转问题
+git commit -m 去掉vue提示，集采项目时间配置加无强大
+git commit -m 修复仓储设施查看
+git commit -m 消息调整
+git merge master 
+git commit -m 企业报名审核默认待审核跟初审通过
+git commit -m 调整企业审核列表字段
+git commit -m 企业规模，配送能力查看分页问题排查，搜索的bug
+git commit -m 修复/#/不会跳转的问题
+git stuats
+git checkout test 
+git pull
+git add .
+git commit -m 附件zindex加大
+git checkout tes
+git checkout test
+git merge develop 
+git checkout master 
+git merge test 
+git push
+git status
+git reset --hard 
+git checkout develop 
+npm i
+git reset --hard 
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\trade
+git status
+npm run dev
+git push
+npm publish 
+cd Work\8787\
+f:
+cd Work\8585data\
+npm i
+npm run dev
+npm run dev
+f:
+cd Work\cms\
+git remote -v
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git
+git pull
+npm i
+f:
+cd Work\cms\
+npm i
+git status
+npm run build 
+git add .
+git commit -m 修改头部
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 修改头部信息
+npm publish 
+npm publish 
+git commit -m 修改头部信息
+npm run build 
+git status
+git add .
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+f:
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git status
+git add .
+git commit -m 调整logobug
+git push
+npm publish 
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git commit -m 调整logobug
+npm publish 
+cd Work\cms\
+git add l
+git add lgit commit -m 修改testapi地址
+git commit -m 修改testapi地址
+git reset --hard 
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\auth
+git merge deev
+git commit -m 去掉vue提示
+git merge master 
+git commit -m 左侧菜单显示bug
+git merge au
+git commit -m 调整用户的表格
+npm i
+git commit -m 修复本地安装package
+git commit -m 解决冲突
+git puhs
+git commit -m 选角色全选bug
+npm i gpo-public@latest -S
+GIT STATUS
+git reset --hard 
+git commit -m 附件zindex加大
+git puah
+git merge ts
+git pull
+git checkout test 
+git merge develop 
+git merge test 
+git checkout master 
+git status
+git add .
+git commit -m 打包测试
+git push
+git checkout develop 
+git push
+git push origin develop:test -f
+git push origin develop:master -f
+git pull
+npm i imageviewer
+npm i imageviewer -s
+npm i
+git status
+npm run build 
+npm publish 
+git add .
+git commit -m 调整入口
+gitp ush
+git push
+f:
+cd Work\purchase\
+git pull
+npm run dev
+npm run dev
+npm i
+npm run dev
+npm run build 
+git status
+git add .
+git commit -m 测试首页
+git push
+npm publish 
+git commit -m 测试首页
+npm run build 
+git status
+git add .
+git commit -m 调整首页颜色
+git push
+npm publish 
+npm run dev
+npm run dev
+npm run dev
+npm run build 
+git add .
+git commit -m 测试首页
+git push
+npm publish 
+f:
+cd Work\member\
+git status
+git pull
+git reset --hard 
+npm i
+f:
+cd Work\member\
+git pull
+npm run dev
+npm i
+npm run build 
+git status
+git add .
+git commit -m 加入修改密码
+git push
+npm publish 
+npm i
+cnpm i
+git pull
+git pull
+git status
+npm run build 
+git add .
+git commit -m 去掉无用的console
+git push
+npm publish 
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-dg.git
+git status
+git pull
+git push
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-dg.git
+git pull
+npm run build 
+git add .
+git commit -m 调整上方鼠标指上去hover
+git push
+git status
+npm publish 
+:
+f:
+cd Work\purchase\
+npm run dev
+npm run dev
+node 新建文本文档.js 
+:
+cd Work\purchase\
+f:
+cd Work\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-account.git account
+git checkout account\
+cd account\
+npm i
+npm run dev
+f:
+cd Work\account\
+ipconfig
+f:
+cd Work\8787\
+npm i
+npm i
+npm i
+f:
+cd Work\8787\
+npm run dev
+npm run dev 
+npm run build 
+git add .
+git commit -m 调整头部样式
+git push
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 头部修改
+git push
+npm publish 
+cd Work\8787\
+f:
+cd Work\8585data\
+npm i
+npm run dev
+npm run dev
+f:
+cd Work\cms\
+git remote -v
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git
+git pull
+npm i
+f:
+cd Work\cms\
+npm i
+git status
+npm run build 
+git add .
+git commit -m 修改头部
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 修改头部信息
+npm publish 
+npm publish 
+git commit -m 修改头部信息
+npm run build 
+git status
+git add .
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+f:
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git status
+git add .
+git commit -m 调整logobug
+git push
+npm publish 
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git commit -m 调整logobug
+npm publish 
+cd Work\cms\
+git add l
+git add lgit commit -m 修改testapi地址
+git commit -m 修改testapi地址
+git reset --hard 
+git commit -m 解决冲突
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\member\
+git commit -m 附件上传初始
+git pu
+git push 
+git commit -m 修改会员系统名称
+git commit -m 主页加群号
+git merge te
+git commit -m 去掉vue提示
+git commit -m 调整企业规模，配送没拿到企业id的问题
+git commit -m 入口跳转
+git merge master 
+git commit -m 加字段长度验证，去掉编辑头部
+git commit -m 长文本加上字段长度验证，不超过256，项目联系人省市区bug调整
+git commit -m 加上审核表删除并测试，调整了很多细节的bug
+git commit -m 经营企业基本信息经营方式字段修改
+git commit -m 企业审核模块所属集团下拉调整
+git commit -m 调整的保存之后生产企业还可以编辑的bug
+git commit -m 工信部排名显示错误
+git 
+git commit -m 去掉企业简称，修复企业日期选择
+npm i gpo-public -S
+cnpm i gpo-pubic -S
+npm install gpo-public --save
+cd ..
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member\
+cd member\
+npm cache clean --force
+npm i
+cnpm i
+npm i gpo-public@lasest
+npm i gpo-public@latest -S
+cnpm i gpo-public@latest -S
+git commit -m 企业规模，配送能力分页问题排查
+git stauts
+git commit -m 省市区限制
+git commit -m 企业规模，运输分页bug
+git statsu
+git commit -m 企业机构库日志问题
+git commit -m 注册的时候看日志
+git commit -m 去掉请输入年度的不可编辑报错
+git commit -m 调整生产企业无法保存（去掉企业建成）
+git commit -m 医院审核日志
+git commit -m 医疗机构注册日志
+git merge develop 
+git checkout devv
+git checkout test 
+git add .
+git commit -m 附件zindex加大
+git checkout master 
+git merge test 
+git checkout LiChangSheng 
+git reset --hard 
+git status
+git push
+git checkout develop 
+git pull
+git push --set-upstream origin test 
+git checkout develop 
+npm i
+git status
+git add .
+npm run dev
+git status
+npm run build 
+npm publish 
+git add .
+git commit -m 调整入口
+gitp ush
+git push
+gitp ush
+git status
+npm run build 
+git add .
+git commit -m 下拉加入点击跳转
+git push
+npm publish 
+npm i
+cd Work\auth\
+cd ..
+git clone https://github.com/crli/vue-cli-multipage.git vuepackpage
+npm run dev
+cd vuepackpage\
+npm i
+cd webpack-test\
+git commit -m 再修改server
+git commit -m 又改了server
+git commit -m 确定打包方案，先提交一下下
+git commit -m 调入口加载，403
+git pull
+node server.js 
+cd Work\auth
+f:
+cd dgtrade\
+git commit -m 新交易
+git checkout test 
+git commit -m 交易东莞
+git commit -m 重新发布
+git remote set-url https://git.yaoling.io/dgjiaoyi/yaoling-gpo-fe-dg.git
+git remote set-url origin https://git.yaoling.io/dgjiaoyi/yaoling-gpo-fe-dg.git
+git status
+git add .
+git commit -m 修改接口到东莞交易
+git push
+cd webpack-test\
+git commit -m 再修改server
+git commit -m 又改了server
+git commit -m 确定打包方案，先提交一下下
+git commit -m 调入口加载，403
+node server.js 
+cd Work\auth
+git clone https://git.yaoling.io/dgjiaoyi/yaoling-fe-gpo-dg.git dgtrade
+cd dgtrade\
+git checkout dev
+git checkout develop
+git commit -m 新闻本
+git branch develop
+git branch test
+ls
+gitp ush
+git push
+git push --set-upstream origin develop 
+git push --set-upstream origin test 
+git status
+git add .
+npm run dev
+npm run build 
+npm publish 
+git commit -m 调整入口
+gitp ush
+f:
+cd Work\purchase\
+git sttaus
+git commit -m 提交
+git commit -m 默认申投诉企业或者药品，对产品报名信息字段
+git commit -m 入口加个加载动画，试试效果
+git commit -m 逐步调整列表宽度
+git commit -m 修改集采项目子项目进度详情接口，调整报名管理，投标商品表格列宽
+git commit -m 修改大项目详情，子项目详情进度接口
+git commit -m 投标商品表格列宽
+git commit -m 入围、议价表格宽度
+git commit -m 清除没用的接口
+gitp ul
+git commit -m 解决冲突
+git pus
+git push 
+git reset --hard 
+git commit -m 解决冲右图
+git commit -m 解决充裕
+git branch -D master 
+git checkout master
+git commit -m 解决master冲突与
+git status
+git add .
+git commit -m 调整完成表格列宽，干掉没用的接口路径
+git push
+git push origin develop:test -f
+git push origin develop:master -f
+git pull
+npm i imageviewer
+npm i imageviewer -s
+npm i
+git status
+npm run build 
+npm publish 
+git add .
+git commit -m 调整入口
+gitp ush
+git push
+f:
+cd Work\purchase\
+git pull
+npm run dev
+npm run dev
+npm i
+npm run dev
+npm run build 
+git status
+git add .
+git commit -m 测试首页
+git push
+npm publish 
+git commit -m 测试首页
+npm run build 
+git status
+git add .
+git commit -m 调整首页颜色
+git push
+npm publish 
+npm run dev
+npm run dev
+npm run dev
+npm run build 
+git add .
+git commit -m 测试首页
+git push
+npm publish 
+f:
+cd Work\member\
+git status
+git pull
+git reset --hard 
+npm i
+f:
+cd Work\member\
+git pull
+npm run dev
+npm i
+npm run build 
+git status
+git add .
+git commit -m 加入修改密码
+git push
+npm publish 
+npm i
+cnpm i
+git pull
+git pull
+git status
+npm run build 
+git add .
+git commit -m 去掉无用的console
+git push
+npm publish 
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-dg.git
+git status
+git pull
+git push
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-dg.git
+git pull
+npm run build 
+git add .
+git commit -m 调整上方鼠标指上去hover
+git push
+git status
+npm publish 
+:
+f:
+cd Work\purchase\
+npm run dev
+npm run dev
+node 新建文本文档.js 
+:
+cd Work\purchase\
+f:
+cd Work\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-account.git account
+git checkout account\
+cd account\
+npm i
+npm run dev
+f:
+cd Work\account\
+ipconfig
+f:
+cd Work\8787\
+npm i
+npm i
+npm i
+f:
+cd Work\8787\
+npm run dev
+npm run dev 
+npm run build 
+git add .
+git commit -m 调整头部样式
+git push
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 头部修改
+git push
+npm publish 
+cd Work\8787\
+f:
+cd Work\8585data\
+npm i
+npm run dev
+npm run dev
+f:
+cd Work\cms\
+git remote -v
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git
+git pull
+npm i
+f:
+cd Work\cms\
+npm i
+git status
+npm run build 
+git add .
+git commit -m 修改头部
+npm publish 
+git status
+npm run build 
+git add .
+git commit -m 修改头部信息
+npm publish 
+npm publish 
+git commit -m 修改头部信息
+npm run build 
+git status
+git add .
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+f:
+cd Work\data\
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git status
+git add .
+git commit -m 调整logobug
+git push
+npm publish 
+git commit -m 调整头部信息
+git push
+npm publish 
+ping 172.18.214.144
+f:
+cd Work\member\
+git log
+f:
+cd Work\member\
+git log --oneline
+f:
+cd Work\data\
+git log --oneline
+git log
+git log
+git clone https://github.com/vuejs-templates/webpack.git element
+git clone https://github.com/ElemeFE/element.git element
+ls
+cd element\
+npm config list
+npm i
+npm config list
+npm i
+npm run build 
+git commit -m 调整logobug
+npm publish 
+cd Work\cms\
+git add l
+git add lgit commit -m 修改testapi地址
+git commit -m 修改testapi地址
+git reset --hard 
+git commit -m 解决冲突
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\data\
+git branch -D LiChangSheng 
+git commit -m 暂存目录库监管库的导出接口修改
+git commit -m 修复placeholder
+git commit -m 去掉vue提示
+git commit -m 消息跳转
+git merge master 
+git commit -m 监管库，目录库加上注册药品，产品匹配，去掉componets里面的console
+git commit -m 修改经营企业经营方式字段，
+git pull origin develop 
+git merge LiChangSheng 
+git commit -m 国家谈判搜索字段
+git commit -m 修复/#/不会跳转的问题
+git commit -m 注册药品弹框搜索条件
+git commit -m 企业审核日志修改
+git commit -m 去掉企业操作日志
+git com 
+git stuats
+git commit -m 那个产品编码生成有点bug
+git commit -m 医疗几个
+git checklic
+git checkout LiChangSheng 
+git commit -m 修改会员管理
+git commit -m 附件zindex加大
+git reset --hard  02fdf0f5
+git commit -m 去掉省/市的/
+git commit -m 目录监管的表格宽度调整
+gti push
+git commit -m 修复监控库搜索条件
+git add .
+git commit -m 监管库，目录加上注册药品产品匹配
+git checkout test 
+git merge deev
+git merge develop 
+git checkout master 
+git status
+git reset --hard 
+git merge test 
+git push
+git checkout develop 
+git pull
+npm i
+f:
+cd Work\qy
+cd Work\pu
+cd Work\public\
+npm run dev 
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+cd Work\public\
+git status
+cmd date
+f:
+cd Work\cmd
+cd Work\cms
+git pull
+npm run dev
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\auth
+git reset --hard 
+git status
+npm run dev
+git add lgit commit -m 修改testapi地址
+git commit -m 修改testapi地址
+git push
+git reset --hard 
+git add .
+git commit -m 解决冲突
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git pull
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+git reset --hard 
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\member\
+npm i --save element-ui/lib/mixins/focus
+npm i
+git staus
+git status
+git checkout develop 
+npm run dev
+ping upload.test.api.wei3dian.com
+f:
+cd Work\data\
+git status
+npm run dev
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+git reset --hard 
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\purchase\
+10483.47-7683.47
+git status
+npm i
+npm i gpo-public -s
+npm run dev
+f:
+cd Work\public\
+git diff
+a 
+aaaa
+ccfdfs
+ipconfgi
+ipconfig
+ccfdfs
+f:
+cd Work\data\
+git pull
+npm run dev
+cd Work\public\
+git diff
+a 
+aaaa
+ccfdfs
+f:
+cd Work\data\
+git pull
+git list gpo-public
+npm list gpo-public
+cnpm list gpo-public
+npm i gpo-public@latest -S
+git checkout LiChangSheng 
+git status
+git add .
+git commit -m 暂存一下百度到的拼音中文对照
+git pullor 
+git pull origin develop 
+git push
+f:
+cd Work\purchase\
+git pull
+npm run dev
+npm i
+npm i gpo-public@latest -S
+cnpm i gpo-public@latest -S
+git status
+f:
+cd Work\pu
+cd Work\purchase\
+f:
+cd Work\cms\
+git pull
+git checkout LiChangSheng 
+npm run dev
+aaaa
+ccfdfs
+f:
+cd Work\cms\
+git status
+git add .
+git commit -m trycatch一下，免得其它浏览器报错
+git push
+git checkout develop 
+git pull
+git checkout LiChangSheng 
+f:
+cd Work\settle\
+f:
+cd Work\
+git clone https://git.yaoling.io/settle/yaoling-gpo-fe-settle.git settle
+cd settle\
+npm i
+npm run dev
+npm i gpo-public -s
+cd Work\public\
+git diff
+a 
+aaaa
+ccfdfs
+f
+f:
+cd Work\trade
+git pull
+git reset --hard 
+git status
+npm run dev
+git add l
+git add lgit commit -m 修改testapi地址
+git commit -m 修改testapi地址
+git reset --hard 
+git commit -m 解决冲突
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\data\
+git branch -D LiChangSheng 
+git commit -m 暂存目录库监管库的导出接口修改
+git commit -m 修复placeholder
+git commit -m 去掉vue提示
+git commit -m 消息跳转
+git merge master 
+git commit -m 监管库，目录库加上注册药品，产品匹配，去掉componets里面的console
+git commit -m 修改经营企业经营方式字段，
+git pull origin develop 
+git merge LiChangSheng 
+git commit -m 国家谈判搜索字段
+git commit -m 修复/#/不会跳转的问题
+git commit -m 注册药品弹框搜索条件
+git commit -m 企业审核日志修改
+git commit -m 去掉企业操作日志
+git com 
+git stuats
+git commit -m 那个产品编码生成有点bug
+git commit -m 医疗几个
+git checklic
+git checkout LiChangSheng 
+git commit -m 修改会员管理
+git commit -m 附件zindex加大
+git reset --hard  02fdf0f5
+git commit -m 去掉省/市的/
+git commit -m 目录监管的表格宽度调整
+gti push
+git commit -m 修复监控库搜索条件
+git add .
+git commit -m 监管库，目录加上注册药品产品匹配
+git merge deev
+git status
+git reset --hard 
+git push
+git checkout develop 
+git pull
+npm i
+f:
+cd Work\qy
+cd Work\pu
+cd Work\public\
+npm run dev 
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+cd Work\public\
+git status
+cmd date
+f:
+cd Work\cmd
+cd Work\cms
+git pull
+npm run dev
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\auth
+git reset --hard 
+git status
+npm run dev
+git add lgit commit -m 修改testapi地址
+git commit -m 修改testapi地址
+git reset --hard 
+git pull
+git status
+git log -10
+ping data.test.api_test.wei3dian.com
+git log -10
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+git reset --hard 
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\member\
+npm i --save element-ui/lib/mixins/focus
+npm i
+git staus
+git status
+npm run dev
+ping upload.test.api.wei3dian.com
+f:
+cd Work\data\
+git status
+npm run dev
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\purchase\
+10483.47-7683.47
+npm i
+npm i gpo-public -s
+npm run dev
+cd Work\public\
+git diff
+a 
+aaaa
+ccfdfs
+f:
+cd Work\trade
+git commit -m 修改搜索条件的时间段
+git commit -m 解决刚才提交的冲突
+git commit -m 修改导入提示
+git commit -m 去掉医疗机构报量的默认搜索
+git commit -m 修改冲突
+git commit -m 去掉alert
+git merge develop 
+git push
+git pull
+git git status
+git commit -m 解决冲突
+git checkout test 
+git add .
+git reset --hard 
+git branch -D master 
+git branch -v
+git branch master
+git checkout master 
+git merge test 
+git push 
+git push --set-upstream origin master 
+git stauts
+git status
+git checkout develop 
+npm i gpo-public -s
+cd Work\public\
+git diff
+a 
+aaaa
+ccfdfs
+ipconfgi
+ipconfig
+f:
+cd Work\tradecenter\
+npm i
+git reset --hard 
+git status
+git pull
+npm run dev
+f:
+cd Work\member\
+npm i --save element-ui/lib/mixins/focus
+npm i
+git staus
+git status
+npm run dev
+ping upload.test.api.wei3dian.com
+f:
+cd Work\data\
+git status
+npm run dev
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\purchase\
+10483.47-7683.47
+npm i
+npm i gpo-public -s
+npm run dev
+cd Work\public\
+git diff
+a 
+aaaa
+ccfdfs
+ipconfgi
+f:
+cd Work\tradecenter\
+ipconfig
+git commit -m 时间段搜索条件修改
+git commit -m 修改导入成功提示
+git reset --hard 
+git add .
+git commit -m 解决冲突
+git merge test 
+git puhs
+git push
+git status
+git pull
+git checkout test 
+git merge develop 
+git checkout develop 
+f:
+cd Work\tradecenter\
+git status
+git add .
+git commit -m 时间搜索的样式微调
+git push
+f:
+cd Work\trade
+git pull
+f:
+cd Work\auth
+git status
+npm i --save element-ui/lib/mixins/focus
+npm i
+git staus
+git status
+npm run dev
+ping upload.test.api.wei3dian.com
+f:
+cd Work\data\
+git status
+npm run dev
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+git reset --hard 
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\purchase\
+10483.47-7683.47
+npm i
+npm i gpo-public -s
+npm run dev
+cd Work\public\
+git diff
+a 
+aaaa
+ccfdfs
+f:
+cd Work\member\
+git branch -D LiChangSheng 
+git branch lic
+git branch LiChang
+git branch LiChangSheng
+git branch -D lic
+git branch -D LiChang
+git branch -v
+git commit -m 全药网采购平台-网证通-数字证书测试网页
+git push --set-upstream origin LiChangSheng 
+git commit -m 加catest页面
+git commit -m 药品维护看到的应该是规格
+git commit -m 修改名称
+git stauts
+git branch -D master 
+git checkout master 
+git merge test 
+git checkout test 
+git checkout LiChangSheng 
+git add .
+git commit -m ca验证页面开发
+git checkout develop 
+git merge LiChangSheng 
+git status
+git pull
+git push
+f:
+cd Work\tradecenter\
+git pull
+npm run dev
+git status
+npm run dev
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+cnpm i
+npm run dist
+npm run dist
+ping upload.test.api_test.wei3dian.com
+ping upload.test.api.wei3dian.com
+f:
+cd Work\purchase\
+10483.47-7683.47
+npm i
+npm i gpo-public -s
+cd Work\public\
+git diff
+a 
+aaaa
+ccfdfs
+f:
+cd Work\member\
+git reset --hard 
+git status\
+git add .
+git commit -m 加了个ip地址
+git checkout test 
+git pull
+git puhs
+git checkout develop 
+git push
+git checkout LiChangSheng 
+git status
+git merge develop 
+npm run deve
+npm run dev
+a 
+aaaa
+ccfdfs
+f;
+f:
+cd Work\auth
+npm run dev
+git clone https://git.yaoling.io/gpo/back/yaoling-oauth-server.git
+cd yaoling-oauth-server\
+git checkout develop 
+aaaa
+ccfdfs
+f:
+cd Work\member\
+git status\
+git commit -m 加了个ip地址
+git puhs
+git checkout develop 
+git checkout LiChangSheng 
+git merge develop 
+npm run deve
+npm run dev
+a 
+aaaa
+ccfdfs
+f;
+npm run dev
+f:
+cd Work\auth
+git add .
+git commit -m 修改回之前的login
+git push
+git checkout test 
+git status
+git pull
+git reset --hard 
+f:
+cd Work\auth
+npm run dev
+git reset --hard 
+git reset --hard 
+f:
+cd Work\auth
+npm run dev
+git reset --hard 
+git nit
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git
+cd ..
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git auth
+cd auth
+git init
+git remote add origin https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git
+git checkout develop
+git remote rm origin
+git remote add origin https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git develop
+git status
+git add .
+git commit -m 解决g冲突
+git checkout deve
+git branch develop
+git checkout develop 
+git pull
+f:
+cd Work\data\
+npm run dev
+f:
+cd Work\auth
+npm run dev
+git reset --hard 
+git reset --hard 
+cd Work\auth
+npm run dev
+git nit
+git remote set-url origin https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git
+cd ..
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git auth
+cd auth
+git init
+git remote add origin https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git
+git checkout develop
+git remote rm origin
+git remote add origin https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git develop
+git add .
+git commit -m 解决g冲突
+git checkout deve
+git branch develop
+f:
+cd Work\data\
+git merge develop 
+git checkout master 
+git pull
+git merge test 
+git puhs
+git push
+git checkout develop 
+git status
+git checkout test 
+git reset --hard 
+git clone https://git.yaoling.io/gpo/back/yaoling-gpo-data.git data
+cd data\
+f:
+cd wm
+cd Work\member\
+npm run dev
+git checkout deve
+git branch develop
+git checkout develop 
+git pull
+f:
+cd Work\mme
+cd Work\member\
+git merge develop 
+git checkout master 
+git merge test 
+git status
+git checkout test 
+git reset --hard 
+cd Work\mme
+cd Work\member\
+git merge develop 
+git checkout master 
+git checkout test 
+git branch -v
+cd ..
+git clone  https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git:master member\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git memberNew
+cd member\
+git merge test 
+git status
+git reset --hard 
+git push
+git branch -D master 
+git checkout LiChangSheng 
+git merge develop 
+git checkout master 
+git merge test 
+git status
+git checkout test 
+git reset --hard 
+cd Work\mme
+cd Work\member\
+git branch -v
+cd ..
+git clone  https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git:master member\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git memberNew
+git branch -D master 
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+cd member\
+git merge develop 
+git checkout test 
+git stuats
+npm i
+git reset --hard 
+cnpm i
+git checkout master 
+git merge test 
+git push
+git checkout develop 
+git checkout LiChangSheng 
+git status
+git log
+git branch develop
+f:
+cd Work\data\
+git pull
+git puhs
+git reset --hard 
+git clone https://git.yaoling.io/gpo/back/yaoling-gpo-data.git data
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git data
+cd data\
+git push
+git checko dev
+npm i
+git status
+git add .
+git commit -m 更新
+git checkout test 
+git merge develop 
+git checkout master 
+git merge test 
+git checkout develop 
+ipconfig
+git checkout master 
+git merge test 
+git checkout develop 
+git init
+git commit -m 本地的git大屏
+git status
+git commit -m logo加停止轮播，
+git push
+git add .
+git commit -m 修改正式的
+git push
+git commit -m 修改正式的
+git log
+git reset --hard 6cf66027
+git reset --hard 
+git reset --hard 1a94ddf8
+git log oneline
+git log --oneline
+git status
+git add .
+git commit -m 基本改完大屏了，深圳订单与东莞订单切换会显示各个平台总金额，查分类汇总
+git status
+git add .
+git commit -m 东莞地图去掉箭头，留鼻涕
+git push
+git status
+git add .
+git commit -m 加入年成交额，交易药品移上去
+git pull
+git push
+git commit -m 基本改完大屏了，深圳订单与东莞订单切换会显示各个平台总金额，查分类汇总
+git status
+git add .
+git commit -m 东莞地图去掉箭头，留鼻涕
+git push
+git commit -m 加入年成交额，交易药品移上去
+git clone https://github.com/ChangLCS/tips.git tips-github
+cd tips-github\
+git add .
+git commit -m 加入记得一条正则表达式，之后继续补充
+git pull
+git status
+git stauts
+git commit -m 加个空格测试全局git帐号 -a
+git push
+git status
+git reset --hard 
+git pull
+git commit -m 基本改完大屏了，深圳订单与东莞订单切换会显示各个平台总金额，查分类汇总
+git status
+git add .
+git commit -m 东莞地图去掉箭头，留鼻涕
+git push
+git commit -m 加入年成交额，交易药品移上去
+git clone https://github.com/ChangLCS/tips.git tips-github
+cd tips-github\
+git commit -m 加入记得一条正则表达式，之后继续补充
+git pull
+git status
+git stauts
+git commit -m 加个空格测试全局git帐号 -a
+git reset --hard 
+git init
+git remote origin set-url https://git.yaoling.io/trade/sztrade.git
+git remote set-url https://git.yaoling.io/trade/sztrade.git
+git commit -m 第一次提交
+git checkout deve
+git branch develop
+git checkout develop 
+git merge master 
+git puhs
+git remote add origin https://git.yaoling.io/trade/sztrade.git
+git push --set-upstream origin develop 
+git remote set-url https://git.yaoling.io/trade/yaoling-gpo-fe-sztrade.git
+git remote set-url origin https://git.yaoling.io/trade/yaoling-gpo-fe-sztrade.git
+git commit -m 打多个空格打包
+git puah
+git remote set-url origin https://git.yaoling.io/trade/yaoling-gpo-fe-tradesz.git
+git status
+git add .
+git commit -m 修改接口
+git pull
+git push
+f:
+npm i
+npm run dev
+git puah
+git remote set-url origin https://git.yaoling.io/trade/yaoling-gpo-fe-tradesz.git
+git commit -m 修改接口
+f:
+npm i
+npm run dev
+git reset --hard 
+git pull
+npm run build 
+git add .
+git commit -m 调整头部导航的样式
+git status
+git push
+npm publish 
+git reset --hard 
+f:
+cd Work\purchase\
+git pull
+npm run dev
+git status
+npm i
+f:
+cd Work\purchase\
+npm i gpo-public@latest -S
+cnpm i gpo-public@latest -S
+git status
+f:
+cd Work\purchase\
+npm i gpo-public@latest -S
+cnpm i gpo-public@latest -S
+git status
+git push 
+git push --set-upstream origin master 
+git checkout tes
+git branch test
+git checkout test 
+git push --set-upstream origin test 
+git merge develop 
+git checkout master 
+git merge test 
+git push
+git checkout develop 
+git merge master 
+git reset --hard 
+f:
+cd Work\trade
+git pull
+npm run dev
+npm i gpo-public@latest -S
+npm i
+git status
+git add .
+git commit -m 加入年成交额，交易药品移上去
+git pull
+git push
+git commit -m 基本改完大屏了，深圳订单与东莞订单切换会显示各个平台总金额，查分类汇总
+git status
+git add .
+git commit -m 东莞地图去掉箭头，留鼻涕
+git push
+git commit -m 加入年成交额，交易药品移上去
+git clone https://github.com/ChangLCS/tips.git tips-github
+cd tips-github\
+git add .
+git commit -m 加入记得一条正则表达式，之后继续补充
+git pull
+git status
+git stauts
+git commit -m 加个空格测试全局git帐号 -a
+f:
+cd Work\trade
+git pull
+git branch -D test 
+git checkout test 
+git branch -D master 
+git checkout master 
+git reset --hard 
+git merge test 
+git push
+git checkout develop 
+git status
+npm i gpo-public@latest -S
+git push 
+git push --set-upstream origin master 
+git checkout tes
+git branch test
+git checkout test 
+git push --set-upstream origin test 
+git merge develop 
+git checkout master 
+git merge test 
+git checkout develop 
+git merge master 
+git commit -m 加入购物车图标跟右侧选择框
+npm run build 
+npm publish 
+git status
+git add .
+git commit -m 修改了一点样式，左侧菜单的小图标
+git push
+npm run dev
+git clone https://github.com/ChangLCS/ceyice.git ceyice
+git status
+git add .
+git commit -m 新增去除console.log的正则
+git pull
+git push
+git status
+git add .
+git commit -m 加了git错误处理，全局帐号配置
+git pull
+git push
+git status
+git pull
+git status
+git commit -m 加了git错误处理，全局帐号配置
+git pull
+git status
+git pull
+git add .
+git commit -m iphonetouchcss屏幕闪一下的bug
+git push
+f:
+cd Work\purchase\
+git pull
+git status
+git add .
+git commit -m 去掉转圈圈的bug
+git push
+f:
+npm run dev
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ��         �O6�O���GC���)E�\��	����git push 
+git push --set-upstream origin master 
+git checkout tes
+git branch test
+git push --set-upstream origin test 
+git merge master 
+git commit -m 加入购物车图标跟右侧选择框
+npm run build 
+npm publish 
+git status
+git add .
+git commit -m 修改了一点样式，左侧菜单的小图标
+git push
+npm run dev
+git clone https://github.com/ChangLCS/ceyice.git ceyice
+git status
+git add .
+git commit -m 新增去除console.log的正则
+git pull
+git push
+git status
+git add .
+git commit -m 加了git错误处理，全局帐号配置
+git pull
+git push
+git status
+git pull
+git status
+git commit -m 加了git错误处理，全局帐号配置
+git pull
+git status
+git pull
+git add .
+git commit -m iphonetouchcss屏幕闪一下的bug
+git push
+f:
+cd Work\purchase\
+git commit -m 去掉转圈圈的bug
+npm run dev
+f:c
+git commit -m 产品价格信息审核修改，唉····
+git commit -m 修改6位通用名bug
+git commit -m 调整产品价格信息，六位通用名bug
+git checkout master 
+git add. 
+git commit -m 产品加字段，是否单剂量包装，单次含量装量
+git merge test 
+gitp ush
+f:
+cd Work\d
+cd Work\data\
+git commit -m 不是单词，是单次
+git pul
+git commit -m 注册药品公司idbug
+git pull
+git merge LiChangSheng 
+git merge develop 
+git checkout LiChangSheng 
+git push
+git add .
+git commit -m 测试报错的git
+git checkout test 
+git checkout develop 
+git reset --hard 
+git reset --hard 781fd0d2
+git status
+git push
+f:
+cd Work\data\
+git status
+npm run dev
+npm run dev
+:
+f:
+cd Work\member\
+git add .
+git commit -m 完成产品质量指标的修改
+git status
+git push
+npm run dev
+f:
+cd Work\data\
+git add .
+git commit -m 更新product
+git status
+git pull
+git push
+f:
+cd Work\member\
+npm run dev
+git reset --hard 781fd0d2
+git status
+git push
+f:
+cd Work\data\
+git status
+npm i
+npm run dev
+git push
+git add .
+git commit -m 测试报错的git
+git reset --hard 781fd0d2
+git status
+git push
+f:
+cd Work\data\
+git status
+npm run dev
+npm run dev
+:
+f:
+cd Work\member\
+git add .
+git commit -m 完成产品质量指标的修改
+git status
+git push
+npm run dev
+f:
+cd Work\data\
+git commit -m 更新product
+git status
+git pull
+git push
+f:
+cd Work\member\
+npm run dev
+git reset --hard 781fd0d2
+git status
+npm i
+npm run dev
+f:
+cd Work\data\
+git commit -m 数据中心菜单不知道什么时候给放开了，哇擦
+git checkout test 
+git commit -m 解决冲突
+git merge develop 
+git add .
+git commit -m 产品质量指标详情查看修改
+git reset --hard 
+git merge LiChangSheng 
+git status
+git push
+git checkout develop 
+git checkout LiChangSheng 
+f:
+cd Work\member\
+git pull
+npm run dev
+f:
+cd Work\data\
+git status
+git checkout develop 
+git checkout LiChangSheng 
+npm run dev
+npm run dev
+git add .
+git commit -m 把总成交额跟年成交额换位置
+git status
+git commit -m 把总成交额跟年成交额换位置
+git add .
+git commit -m excel公示应用
+git status
+git push
+git add .
+git commit -m excel公示应用
+git push
+ls
+git reset --hard 
+git status
+f:
+cd Work\d
+cd Work\data\
+git commit -m 不是单词，是单次
+git pul
+git commit -m 注册药品公司idbug
+git pull
+git merge LiChangSheng 
+git merge develop 
+git checkout LiChangSheng 
+git push
+git add .
+git commit -m 测试报错的git
+git checkout test 
+git checkout develop 
+git reset --hard 
+git reset --hard 781fd0d2
+git status
+git push
+f:
+cd Work\data\
+git status
+npm run dev
+npm run dev
+:
+f:
+cd Work\member\
+git add .
+git commit -m 完成产品质量指标的修改
+git status
+git push
+npm run dev
+f:
+cd Work\data\
+git add .
+git commit -m 更新product
+git status
+git pull
+git push
+f:
+cd Work\member\
+npm run dev
+git reset --hard 781fd0d2
+git status
+git push
+f:
+cd Work\data\
+git status
+npm i
+npm run dev
+git push
+git add .
+git commit -m 测试报错的git
+git reset --hard 781fd0d2
+git status
+git push
+f:
+cd Work\data\
+git status
+npm run dev
+npm run dev
+:
+f:
+cd Work\member\
+git add .
+git commit -m 完成产品质量指标的修改
+git status
+git push
+npm run dev
+f:
+cd Work\data\
+git commit -m 更新product
+git status
+git pull
+git push
+f:
+cd Work\member\
+npm run dev
+git reset --hard 781fd0d2
+git status
+npm i
+npm run dev
+f:
+cd Work\data\
+git commit -m 数据中心菜单不知道什么时候给放开了，哇擦
+git commit -m 产品质量指标详情查看修改
+git status
+git checkout develop 
+git checkout LiChangSheng 
+f:
+npm run dev
+cd Work\data\
+npm run dev
+f:
+cd Work\member\
+git commit -m 取消产品api没用的接口，会员中心产品质量指标改好了
+git commit -m 删掉没用的fun
+git commit -m 调整的删除选择的bug
+ping fmp.quanyaowang.com
+ping fmp.quanyaowang.com:8080
+git commit -m 修改了附件的上传提示，联系电话的placeholder，隐藏gsp的认证版本
+git tstauts
+git commit -m 工信部排名，销售额变下拉选择，且不能编辑
+git pull origin develop 
+git merge lci
+git sttaus
+git commit -m 清质量指标
+git commit -m 限价信息bug
+git pull
+git commit -m 销售额四位小数
+git checkout develop 
+git merge LiChangSheng 
+git checkout test 
+git merge develop 
+git checkout master 
+git reset --hard 
+git status
+git add .
+git commit -m 解决冲突
+git merge test 
+git checkout LiChangSheng 
+git merge master 
+git push
+git pull
+git push
+f:
+cd Work\member\
+npm run dev
+git reset --hard 781fd0d2
+git status
+git push
+f:
+cd Work\data\
+git status
+npm i
+npm run dev
+git push
+git add .
+git commit -m 测试报错的git
+git reset --hard 781fd0d2
+git status
+git push
+f:
+cd Work\data\
+git status
+npm run dev
+npm run dev
+:
+f:
+cd Work\member\
+git add .
+git commit -m 完成产品质量指标的修改
+git status
+git push
+npm run dev
+f:
+cd Work\data\
+git commit -m 更新product
+git status
+git pull
+git push
+f:
+cd Work\member\
+npm run dev
+git reset --hard 781fd0d2
+git status
+npm i
+npm run dev
+f:
+cd Work\data\
+git commit -m 数据中心菜单不知道什么时候给放开了，哇擦
+git commit -m 解决冲突
+git commit -m 产品质量指标详情查看修改
+git reset --hard 
+git status
+git checkout develop 
+git checkout LiChangSheng 
+f:
+cd Work\member\
+npm run dev
+npm run dev
+f:
+cd Work\data\
+git commit -m 先暂存一下改一半的产品药监局信息
+git commit -m 产品质量指标用正确的删除申请接口
+git commit -m 数据中心产品质量指标bug修复
+git commit -m 产品的质量指标基本没问题了
+git commit -m 去掉gsp认证版本，工信部，销售额排名改成下拉
+git commit -m 产品基本信息接口改成get
+git stauts
+git add .
+git commit -m 产品审核
+git merge LiChangSheng 
+git checkout test 
+git merge develop 
+git checkout develop 
+git status
+git checkout master 
+git pull
+git merge test 
+git checkout LiChangSheng 
+git merge master 
+git push
+f:
+cd Work\trade
+f:
+cd Work\member\
+npm run dev
+f:
+cd Work\data\
+git status
+npm run dev
+f:
+cd Work\trade
+npm run dev
+npm run dev
+git status
+npm run dev
+f:
+cd Work\trade
+git status
+git reset --hard 
+git pull
+cd Work\trade
+git reset --hard 
+git pull
+f:
+cd tradesz\
+git add .
+git commit -m 将最新的交易代码更新到深圳叫i
+git status
+git push
+f:
+cd Work\trade
+git reset --hard 
+git pull
+git clone https://git.yaoling.io/jiaoyi/yaoling-gpo-fe-trade.git trade 
+cd trade\
+npm i
+git add .
+git commit -m npmi的时候package
+git status
+git reset --hard 
+git pull
+f:
+git clone https://git.yaoling.io/trade/yaoling-gpo-fe-tradesz.git tradesz
+ls
+cd tradesz\
+npm i
+npm i gpo-public@latest -S
+npm run dev
+git status
+git config
+git global
+git-- global
+git --global
+git path
+git --path
+git remote
+git remote -v
+git remote -v
+git reset --hard 
+git status
+git status
+rmdir .git.\/s
+rmdir 1e.\/s
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+npm run dev
+git status
+git config
+git global
+git-- global
+git --global
+git path
+git --path
+git remote
+git remote -v
+git remote -v
+git status
+rmdir .git.\/s
+rmdir 1e.\/s
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+npm i
+f:
+cd Work\member\
+git add .
+git commit -m 修改一个币种bug
+git checkout test 
+git stauts
+git checkout master 
+git reset --hard 
+git merge test 
+git status
+git push
+git checkout develop 
+git checkout LiChangSheng 
+git merge develop 
+f:
+cd Work\data\
+git commit -m 数据中心菜单不知道什么时候给放开了，哇擦
+git commit -m 产品质量指标详情查看修改
+git reset --hard 
+git status
+git checkout develop 
+git checkout LiChangSheng 
+f:
+cd Work\member\
+npm run dev
+npm run dev
+f:
+cd Work\data\
+git commit -m 先暂存一下改一半的产品药监局信息
+git commit -m 产品质量指标用正确的删除申请接口
+git commit -m 数据中心产品质量指标bug修复
+git commit -m 产品的质量指标基本没问题了
+git commit -m 去掉gsp认证版本，工信部，销售额排名改成下拉
+git commit -m 产品基本信息接口改成get
+git stauts
+git add .
+git commit -m 产品审核
+git status
+git pull
+git merge master 
+git push
+f:
+cd Work\trade
+f:
+cd Work\member\
+npm run dev
+f:
+git status
+npm run dev
+f:
+cd Work\trade
+npm run dev
+npm run dev
+git status
+npm run dev
+f:
+cd Work\trade
+git status
+git reset --hard 
+git pull
+cd Work\trade
+git reset --hard 
+git pull
+f:
+cd tradesz\
+git add .
+git commit -m 将最新的交易代码更新到深圳叫i
+git status
+f:
+cd Work\trade
+git reset --hard 
+git pull
+git clone https://git.yaoling.io/jiaoyi/yaoling-gpo-fe-trade.git trade 
+cd trade\
+npm i
+git commit -m npmi的时候package
+git status
+git reset --hard 
+git clone https://git.yaoling.io/trade/yaoling-gpo-fe-tradesz.git tradesz
+ls
+cd tradesz\
+npm i
+npm i gpo-public@latest -S
+npm run dev
+git status
+git config
+git global
+git-- global
+git --global
+git path
+git --path
+git remote
+git remote -v
+git remote -v
+git status
+rmdir .git.\/s
+rmdir 1e.\/s
+f:
+cd Work\data\
+git commit -m gpo审核原值对比
+git commit -m 注册资本改成币种
+git pull origin develop 
+git commit -m gmpgsp资质编码对比
+git pull
+git commit -m 企业审核状态，币种错位bug
+git merge develop 
+git commit -m gmpgsp认证
+git commit -m gmpgsp认证显示样式修改
+git puhs
+git commit -m gmpgsp
+git checkout test 
+git merge LiChangSheng 
+git checkout develop 
+git commit -m 改一半的产品列表
+git checkout master 
+git commit -m 解决冲突
+git reset --hard 
+git merge test 
+git checkout LiChangSheng 
+git status
+git add .
+git commit -m 完成产品信息完善
+git push
+f:
+cd Work\member\
+npm run dev
+f:
+cd Work\data\
+git status
+npm run dev
+f:
+cd Work\data\
+git status
+cd Work\data\
+f:
+cd Work\settle\
+npm run dev
+npm run dev
+cd authvue2.5\
+git add.
+git add .
+git commit -m 测试vscode、eslint、prettier、vetur配置
+git push
+git status
+git pull
+git commit -m 改一半的产品列表
+git checkout master 
+git commit -m 解决冲突
+git reset --hard 
+git merge test 
+git checkout LiChangSheng 
+git status
+git add .
+git commit -m 完成产品信息完善
+git push
+f:
+cd Work\member\
+npm run dev
+f:
+cd Work\data\
+git status
+f:
+cd Work\data\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git authvue2.5
+cd authvue2.5\
+npm i
+clear
+npm run dev
+git push
+f:
+cd Work\member\
+npm run dev
+f:
+cd Work\data\
+npm run dev
+cd Work\data\
+f:
+cd Work\settle\
+git reset --hard 
+git staus
+git status
+git pull
+git reset --hard 
+git status
+git commit -m 完成产品信息完善
+f:
+npm run dev
+cd Work\data\
+npm run dev
+f:
+cd Work\member\
+git add .
+git commit -m 生产企业注册gmp版本必填
+git status
+git checkout develop 
+git pull
+git checkout test 
+git merge LiChangSheng 
+git checkout master 
+git merge test 
+git push
+git checkout LiChangSheng 
+git reset --hard 
+git status
+git checkout develop 
+git checkout LiChangSheng 
+f:
+cd Work\member\
+npm run dev
+npm run dev
+f:
+cd Work\data\
+git commit -m 先暂存一下改一半的产品药监局信息
+git commit -m 产品质量指标用正确的删除申请接口
+git commit -m 数据中心产品质量指标bug修复
+git commit -m 产品的质量指标基本没问题了
+git commit -m 去掉gsp认证版本，工信部，销售额排名改成下拉
+git commit -m 产品基本信息接口改成get
+git stauts
+git add .
+git commit -m 产品审核
+git status
+git pull
+git merge master 
+git push
+f:
+cd Work\trade
+f:
+cd Work\member\
+npm run dev
+f:
+git status
+npm run dev
+f:
+cd Work\trade
+npm run dev
+npm run dev
+git status
+npm run dev
+f:
+cd Work\trade
+git status
+git reset --hard 
+git pull
+cd Work\trade
+git reset --hard 
+git pull
+f:
+cd tradesz\
+git add .
+git commit -m 将最新的交易代码更新到深圳叫i
+git status
+f:
+cd Work\trade
+git reset --hard 
+git pull
+git clone https://git.yaoling.io/jiaoyi/yaoling-gpo-fe-trade.git trade 
+cd trade\
+npm i
+git commit -m npmi的时候package
+git status
+git reset --hard 
+git clone https://git.yaoling.io/trade/yaoling-gpo-fe-tradesz.git tradesz
+ls
+cd tradesz\
+npm i
+npm i gpo-public@latest -S
+npm run dev
+git status
+git config
+git global
+git-- global
+git --global
+git path
+git --path
+git remote
+git remote -v
+git remote -v
+git status
+rmdir .git.\/s
+rmdir 1e.\/s
+f:
+cd Work\data\
+git commit -m gpo审核原值对比
+git commit -m 注册资本改成币种
+git pull origin develop 
+git commit -m gmpgsp资质编码对比
+git commit -m 企业审核状态，币种错位bug
+git commit -m gmpgsp认证
+git commit -m gmpgsp认证显示样式修改
+git commit -m gmpgsp
+git commit -m 改一半的产品列表
+git commit -m 解决冲突
+git status
+git commit -m 完成产品信息完善
+f:
+cd Work\member\
+npm run dev
+npm run dev
+f:
+cd Work\data\
+git commit -m 企业库列表字段补全
+git commit -m 企业机构库原值对比
+git reset --hard bd726eb9
+git push -f
+git commit -m 医疗机构机构类型表格显示
+git commit -m 企业机构库表格长度bug
+git commit -m 企业资质审核换baseSelect
+git commit -m 企业机构维护原值省市区
+git commit -m 企业机构gpo列表
+git puhs
+git commit -m 医疗机构指定配送商bug
+git add .
+git commit -m 小调整，无伤大雅的那种
+git pull
+git checkout develop 
+git merge LiChangSheng 
+git checkout test 
+git merge develop 
+git checkout master 
+git reset --hard 
+git sttaus
+git status
+git merge test 
+git push
+git checkout LiChangSheng 
+f:c
+f:
+cd Work\member\
+npm run dev
+f:
+cd Work\data\
+npm run dev
+firefox -p
+firefox.exe -p
+git push
+git checkout LiChangSheng 
+f:c
+f:
+cd Work\member\
+npm run dev
+cd Work\data\
+npm run dev
+firefox -p
+firefox.exe -p
+f:
+cd Work\trade
+cd trade
+git pull origin develop 
+cd ..
+cd tradesz\
+git pull
+git status
+git statsus
+F:
+cd Work\auth
+cd ..
+cd authvue2.5\
+npm run dev
+git status
+f:
+cd Work\authvue2.5\
+F:
+cd Work\auth
+cd ..
+cd authvue2.5\
+npm run dev
+f:
+cd Work\authvue2.5\
+git add .
+git commit -m 切个分支出来做测试
+git checkout LiChangSheng 
+git merge develop 
+git status
+npm run dev
+cd Work\data\
+npm run dev
+firefox -p
+firefox.exe -p
+cd Work\trade
+cd trade
+git pull origin develop 
+cd ..
+cd tradesz\
+git statsus
+f:
+cd Work\settle\
+git commit -m 价格左侧菜单权限
+git pull
+git commit -m 解决冲突，拉更新
+git status
+git add .
+git commit -m 菜单加权限
+git push
+f:c
+f:
+cd Work\member\
+npm run dev
+cd Work\data\
+npm run dev
+firefox -p
+firefox.exe -p
+cd Work\trade
+cd trade
+git pull origin develop 
+cd ..
+cd tradesz\
+git statsus
+f:
+cd Work\trade\trade
+git commit -m 医疗机构报量加个判断条件
+git merge develop 
+git branch -D develop 
+git branch -D test 
+git checkout master 
+git add .
+git commit -m 医疗机构保量加个条件
+git checkout develop 
+git merge master 
+git checkout test 
+git push
+git pull
+git status
+f:
+cd Work\member\
+:
+f:
+cd Work\data\
+git status
+git pull
+ls
+f:
+cd Work\member\
+npm run dev
+cd trade
+git pull origin develop 
+cd ..
+cd tradesz\
+git statsus
+f:
+cd Work\trade\trade
+git status
+git checkout test 
+git branch -v
+git branch -D develop 
+git checkout develop 
+git pull
+npm run dev
+npm run dev
+f:
+cd Work\data\
+git status
+git checkout develop 
+git pull
+git merge LiChangSheng 
+git checkout LiChangSheng 
+npm run dev
+git pull
+git merge LiChangSheng 
+git checkout LiChangSheng 
+npm run dev
+f:
+cd Work\authvue2.5\
+git stauts
+git statuds
+npm cache clean 
+cnpm cache clean
+npm list
+npm list vu
+npm list vue
+npm cache clean -f
+npm list 
+npm i
+git add .
+git commit -m 测试vue2.5
+git status
+git push
+f:
+cd Work\data\
+git status
+git pull
+git merge LiChangSheng 
+git checkout LiChangSheng 
+npm run dev
+git merge LiChangSheng 
+git checkout LiChangSheng 
+npm run dev
+f:
+cd Work\authvue2.5\
+git stauts
+git statuds
+npm cache clean 
+cnpm cache clean
+npm list
+npm list vu
+npm list vue
+npm cache clean -f
+npm list 
+npm i
+git commit -m 测试vue2.5
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git data
+cd data\
+git init
+git commit -m 提交修改测试
+git checkout deve
+git branch develop
+git remote add origin https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git
+git branch --set-upstream-to=origin/develop develop
+git pull origin develop 
+git pull ----allow-unrelated-histories
+git pull origin develop ----allow-unrelated-histories
+git pull
+git pull origin develop --allow-unrelated-histories
+git add .
+git commit -m 医疗机构修改bug
+git checkout test 
+git status
+git merge develop 
+git push
+git checkout develop 
+git checkout test 
+git merge develop 
+git checkout develop 
+git add .
+git commit -m 加git错误处理
+git pull
+git status
+git push
+f:
+cd Work\member\
+git status
+git pull
+npm list vu
+npm list vue
+npm cache clean -f
+npm list 
+npm i
+git add .
+git commit -m 测试vue2.5
+f:
+cd Work\data\
+git checkout master 
+git push --set-upstream origin master 
+git branch --set-upstream-to=origin/master master
+git pull
+git merge test 
+git push
+git status
+f:
+cd Work\settle\
+f:
+cd Work\settle\
+git status
+npm run dev
+f:
+cd Work\data\
+npm run dev
+git statuds
+cnpm cache clean
+npm list vu
+npm list vue
+npm cache clean -f
+npm list 
+git add .
+git commit -m 测试vue2.5
+git push
+git clone 
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git LiChangSheng vue2.5
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git vue2.5
+cd vue2.5\
+git checkout LiChangSheng 
+git status
+npm cache clean _
+npm cache clean 
+npm cache verify
+npm -v
+npm i
+npm list
+npm run dev
+npm list vue
+npm cache clean -f
+npm list 
+git commit -m 测试vue2.5
+git clone 
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git LiChangSheng vue2.5
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git vue2.5
+cd vue2.5\
+git checkout LiChangSheng 
+npm cache clean _
+npm -v
+npm run dev
+npm cache clean 
+npm cache clean --f
+npm cache verify
+npm i
+npm list
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+git status
+git push
+npm publish 
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+npm publish 
+f:
+cd Work\tradecenter\
+git reset --hard 
+git pull
+git checkout test 
+git merge develop 
+git checkout master 
+git status
+git merge test 
+git push
+git checkout develop 
+git push
+f:
+cd Work\trade\trade
+git checkout develop 
+git pull
+git status
+git log -online
+git log --online
+git log --ls
+git log --line
+git log --oneline
+git log --oneline
+git add .
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git status
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+git push
+git push
+ping tradecenter_api.qywgpo.com
+ping https://tradecenter_api.qywgpo.com
+f:
+cd Work\vue2.5\
+git commit elementuivuebug
+git commit -m elementvuebug
+git push
+git push
+ping tradecenter_api.qywgpo.com
+ping https://tradecenter_api.qywgpo.com
+cd Work\vue2.5\
+f:
+cd Work\member\
+git status
+npm i gpo-public@latest -S
+npm cache 
+npm cache ls
+npm cache clean _
+npm cache clean 
+npm cache verify
+npm cache clean -f
+npm i
+npm cache clean --force
+f:
+cd Work\member\
+npm cache clean -f
+npm cache clean --force
+f:
+cd Work\member\
+npm i
+git reset --hard 
+git push
+git checkout develop 
+git status
+git status
+cd Work\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+f:
+cd member\
+npm i
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+npm publish 
+f:
+cd Work\tradecenter\
+git reset --hard 
+git pull
+git status
+git push
+git checkout develop 
+git push
+git pull
+git status
+git log -online
+git log --online
+git log --ls
+git log --line
+git log --oneline
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+f:
+cd Work\trade\trade
+git commit -m 修复了表格列筛选bug
+git ad d.
+git commit -m 去掉合同的console
+git commit -m 开表格筛选
+git add .
+git commit -m 表格筛选bug
+git checkout test 
+git merge develop 
+git status
+git checkout master 
+git merge test 
+git push
+git checkout develop 
+git commit elementuivuebug
+git commit -m elementvuebug
+git push
+ping tradecenter_api.qywgpo.com
+ping https://tradecenter_api.qywgpo.com
+cd Work\vue2.5\
+f:
+cd Work\public\
+npm run build 
+npm publish 
+git add .
+git commit -m 加了个公共的日期范围选择组件qyw-date-range
+git status
+git push
+npm cache verify
+npm i
+npm list
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+git status
+git push
+npm publish 
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+npm publish 
+f:
+git reset --hard 
+git pull
+git status
+git push
+git checkout develop 
+git push
+cd Work\trade\trade
+git status
+git log -online
+git log --online
+git log --ls
+git log --line
+git log --oneline
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+git push
+ping tradecenter_api.qywgpo.com
+ping https://tradecenter_api.qywgpo.com
+f:
+cd Work\tradecenter\
+git commit -m config正式环境api地址
+git sttaus
+git merge tess
+git commit -m 获取ip改成https
+git pull
+git puhs
+git merge develop 
+git add .
+git commit -m 修复刚进去获取ip的bug
+git merge test 
+git checkout develop 
+git merge master 
+git status
+git checkout test 
+git push
+git checkout master 
+f:
+cd Work\trade\trade
+git status
+npm run dev
+ping https://tradecenter_api.qywgpo.com
+f:
+cd Work\public\
+git status
+npm run dev
+f:
+cd Work\tradecenter\
+npm run dev
+f:
+cd cms\
+npm run dev
+f:
+cd Work\tradecenter\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+git status
+npm i
+npm run dev
+npm run dev
+cd Work\tradecenter\
+npm run dev
+f:
+cd Work\cms\
+git status
+git pull
+cd ..
+npm run dev
+cd Work\tradecenter\
+cd Work\cms\
+cd ..
+f:
+cd Work\settle\
+git reset --hard 
+git status
+git pull
+npm run dev
+git status
+npm run dev
+ping https://tradecenter_api.qywgpo.com
+f:
+cd Work\public\
+git status
+npm run dev
+f:
+cd Work\tradecenter\
+npm run dev
+f:
+cd cms\
+npm run dev
+f:
+cd Work\tradecenter\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+git status
+npm i
+npm run dev
+npm run dev
+cd Work\tradecenter\
+npm run dev
+cd Work\cms\
+cd ..
+f:
+cd Work\settle\
+gfit status
+git init
+git reset 
+git remote add origin https://git.yaoling.io/settle/yaoling-gpo-fe-settle.git
+git commit -m 暂存一下
+git checkout deve
+git branch -v
+git branch develop
+git checkout develop 
+git branch --set-upstream-to=origin/develop develop
+git reset --hard 
+git pull -f
+git pull origin develop --allow-unrelated-histories
+git pull
+git add .
+git commit -m 测试提交
+git status
+git push
+f:
+cd Work\trade\tradesz\
+git pull
+npm run dev
+f:
+cd Work\settle\
+git pull
+npm run dev
+f:
+cd Work\settle\
+git status
+git pull
+npm run dev
+f:
+cd Work\auth\
+git status
+npm run dev
+cd Work\settle\
+npm run dev
+f:
+cd Work\auth\
+git reset --hard 
+git status
+git pull
+f:
+git status
+npm run dev
+ping https://tradecenter_api.qywgpo.com
+f:
+cd Work\public\
+npm run dev
+cd Work\tradecenter\
+f:
+cd Work\trade\trade
+git checkout test 
+git pull
+git status
+npm i gpo-public@latest -S
+npm run dev
+cd Work\public\
+npm run build 
+npm publish 
+git add .
+git commit -m 加了个公共的日期范围选择组件qyw-date-range
+git status
+git push
+npm cache verify
+npm i
+npm list
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+git status
+git push
+npm publish 
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+npm publish 
+f:
+git pull
+git status
+git push
+git checkout develop 
+git push
+cd Work\trade\trade
+git status
+git log -online
+git log --online
+git log --ls
+git log --line
+git log --oneline
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+git push
+ping tradecenter_api.qywgpo.com
+ping https://tradecenter_api.qywgpo.com
+f:
+cd Work\tradecenter\
+git commit -m config正式环境api地址
+git sttaus
+git merge tess
+git commit -m 获取ip改成https
+git puhs
+git commit -m 修复刚进去获取ip的bug
+git merge master 
+git status
+f:
+git status
+npm run dev
+ping https://tradecenter_api.qywgpo.com
+f:
+cd Work\public\
+npm run dev
+cd Work\tradecenter\
+npm run dev
+F
+f:
+cd Work\trade\trade
+git commit -m 导入文件excel
+git checkout master 
+git ad .
+git commit -m 解决冲突
+git merge test 
+git commit -m 修改config地址
+git commit -m gpo首页加上架药品数量，医疗机构，配送企业
+git reset --hard 
+git commit -m 订单管理，金额加toFiexd
+git checkout test 
+git merge develop 
+git checkout develop 
+git add .
+git commit -m 配置eslint
+git status
+git push
+git pull
+f:
+cd Work\tradecenter\
+npm run dev
+f:
+cd cms\
+npm run dev
+f:
+cd Work\tradecenter\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+git status
+npm i
+npm run dev
+npm run dev
+cd Work\tradecenter\
+cd Work\cms\
+f:L
+f:
+cd Work\trade\tradesz\
+git branch -v
+git checkout master 
+git merge test 
+git push
+cd ..
+cd tradecenter\
+git checkout develop 
+git pull
+npm i gpo-public@latest -S
+git status
+npm run dev
+npm cache verify
+npm i
+npm list
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+git status
+git push
+npm publish 
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+npm publish 
+f:
+git pull
+git status
+git push
+git checkout develop 
+git push
+cd Work\trade\trade
+git status
+git log -online
+git log --online
+git log --ls
+git log --line
+git log --oneline
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+git push
+ping tradecenter_api.qywgpo.com
+ping https://tradecenter_api.qywgpo.com
+f:
+cd Work\tradecenter\
+git commit -m config正式环境api地址
+git merge tess
+git commit -m 获取ip改成https
+git pull
+git puhs
+git commit -m 修复刚进去获取ip的bug
+git merge master 
+git status
+git checkout master 
+f:
+cd Work\trade\trade
+git status
+npm run dev
+ping https://tradecenter_api.qywgpo.com
+f:
+cd Work\public\
+git status
+npm run dev
+f:
+cd Work\tradecenter\
+npm run dev
+f:
+cd cms\
+npm run dev
+f:
+cd Work\tradecenter\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-cms.git cms
+cd cms\
+git status
+npm i
+npm run dev
+npm run dev
+npm run dev
+cd Work\cms\
+cd ..
+f:
+cd Work\tradecenter\
+git commit -m 引入gpo-public，修改esLint，把api文件夹里面的东西重新格式化了一遍
+git checkout liChangSheng
+git commit -m token获取改成引用config
+git branch LiChangSheng
+git push --set-upstream origin LiChangSheng 
+git commit -m gpo
+git reset --hard 
+git commit -m 改回config
+git commit -m 配送企业可采药品目录默认选中平台
+npm list gpo-pubclic
+npm list gpo-public
+git commit -m 交易中心使用layout-nav
+git merge develop 
+git sttaus
+git add .
+git commit -m 左侧菜单修改后显示不全的bug
+git status
+git pull
+git checkout test 
+git merge LiChangSheng 
+git checkout develop 
+git merge test 
+git push
+git checkout LiChangSheng 
+git status
+git checkout test 
+git checkout master 
+f:
+cd Work\trade\trade
+git status
+npm run dev
+ping https://tradecenter_api.qywgpo.com
+f:
+npm run dev
+cd Work\tradecenter\
+npm run dev
+f:
+cd Work\public\
+git status
+npm run build 
+npm publish 
+git add .
+git commit -m useName跟useFullName换个位置
+git push
+f:
+npm run dev
+cd Work\tradecenter\
+npm run dev
+cd Work\public\
+npm run build 
+npm publish 
+git commit -m useName跟useFullName换个位置
+f:
+cd Work\purchase\
+npm i gpo-public@latest -S
+git add .
+git commit -m 修改esLint配置，改crlf
+git pull
+git checkout test 
+git merge master 
+git checkout LiChangSheng 
+git merge develop 
+git status
+git push
+git checkout develop 
+f:
+npm run dev
+cd Work\tradecenter\
+cd Work\public\
+npm run build 
+npm publish 
+git add .
+git commit -m useName跟useFullName换个位置
+f:
+cd Work\purchase\
+git checkout LiChangSheng 
+git pull
+git merge develop 
+git push
+git checkout develop 
+git status
+npm i gpo-public@latest -S
+npm list
+npm run dev
+git push
+f:
+cd Work\member\
+git status
+git pull
+npm list vu
+npm list vue
+npm cache clean -f
+npm list 
+npm i
+git add .
+git commit -m 测试vue2.5
+f:
+cd Work\data\
+git checkout master 
+git push --set-upstream origin master 
+git branch --set-upstream-to=origin/master master
+git pull
+git merge test 
+git push
+git status
+f:
+cd Work\settle\
+f:
+cd Work\settle\
+git status
+npm run dev
+f:
+cd Work\data\
+npm run dev
+git statuds
+cnpm cache clean
+npm list vu
+npm list vue
+npm cache clean -f
+npm list 
+git add .
+git commit -m 测试vue2.5
+git push
+git clone 
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git LiChangSheng vue2.5
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git vue2.5
+cd vue2.5\
+git checkout LiChangSheng 
+git status
+npm cache clean _
+npm cache clean 
+npm cache verify
+npm -v
+npm i
+npm list
+npm run dev
+npm list vue
+npm cache clean -f
+npm list 
+git commit -m 测试vue2.5
+git clone 
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git LiChangSheng vue2.5
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git vue2.5
+cd vue2.5\
+npm cache clean _
+npm -v
+npm run dev
+npm cache clean 
+npm cache clean --f
+npm cache verify
+npm i
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+git status
+git push
+npm publish 
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+npm publish 
+f:
+cd Work\tradecenter\
+git reset --hard 
+git pull
+git status
+git push
+git checkout develop 
+git push
+f:
+cd Work\trade\trade
+git checkout develop 
+git status
+git log -online
+git log --online
+git log --ls
+git log --line
+git log --oneline
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git status
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+git push
+git push
+ping tradecenter_api.qywgpo.com
+ping https://tradecenter_api.qywgpo.com
+f:
+cd Work\vue2.5\
+git commit elementuivuebug
+git commit -m elementvuebug
+git push
+git push
+ping tradecenter_api.qywgpo.com
+ping https://tradecenter_api.qywgpo.com
+cd Work\vue2.5\
+f:
+cd Work\member\
+git status
+npm cache 
+npm cache ls
+npm cache clean _
+npm cache clean 
+npm cache verify
+npm cache clean -f
+npm i
+npm cache clean --force
+f:
+cd Work\member\
+npm cache clean -f
+npm cache clean --force
+f:
+npm i
+git status
+cd Work\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+cd member\
+npm i
+f:
+cd Work\member\
+npm list
+git add 
+git commit -m 修改生产qiyeriqifanweixuanze
+npm i gpo-public@latest -S
+git commit -m 医疗机构，经营企业日期范围选择
+git commit -m 医疗机构经营性质显示
+git commit -m 生产企业注册bug
+git commit -m 使用eslint配置，重新格式化api
+git sttaus
+git commit -m 医疗机构选择有效期bug
+git staus
+git pull origin develop 
+git puhs
+git aadd .
+git commit -m 修改企业日期弹框
+git commit -m 企业保存groupid
+git pull
+git merge develop 
+git add .
+git commit -m 经营企业注册币种bug
+git merge LiChangSheng 
+git checkout master 
+git reset --hard 
+git merge test 
+git status
+git checkout test 
+git push
+git checkout develop 
+git checkout LiChangSheng 
+git merge master 
+cd Work\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+cd member\
+f:
+cd Work\member\
+npm i
+git status
+npm run dev
+git puhs
+git aadd .
+git commit -m 修改企业日期弹框
+git commit -m 企业保存groupid
+git commit -m 经营企业注册币种bug
+git merge LiChangSheng 
+git checkout master 
+git reset --hard 
+git merge test 
+git status
+git checkout LiChangSheng 
+git merge master 
+cd Work\
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+cd member\
+cd Work\member\
+npm i
+npm run dev
+f:
+cd Work\trade\tradesz\
+git add .
+git commit -m  替换esLint
+git pul
+git push
+git checkout test 
+git merge develop 
+git checkout develop 
+git stauts
+git init
+git pull
+git fsck
+git status
+F:
+cd Work\auth
+cd ..
+cd authvue2.5\
+npm run dev
+f:
+cd Work\authvue2.5\
+git add .
+git commit -m 切个分支出来做测试
+git checkout LiChangSheng 
+git merge develop 
+git status
+npm run dev
+cd Work\data\
+npm run dev
+firefox -p
+firefox.exe -p
+cd Work\trade
+cd trade
+git pull origin develop 
+cd ..
+cd tradesz\
+git statsus
+f:
+cd Work\settle\
+git commit -m 价格左侧菜单权限
+git pull
+git commit -m 解决冲突，拉更新
+git status
+git add .
+git commit -m 菜单加权限
+git push
+f:c
+f:
+cd Work\member\
+npm run dev
+cd Work\data\
+npm run dev
+firefox -p
+firefox.exe -p
+cd Work\trade
+cd trade
+git pull origin develop 
+cd ..
+cd tradesz\
+git statsus
+f:
+cd Work\trade\trade
+git commit -m 医疗机构报量加个判断条件
+git merge develop 
+git branch -D develop 
+git branch -D test 
+git checkout master 
+git add .
+git commit -m 医疗机构保量加个条件
+git checkout develop 
+git checkout test 
+git push
+git pull
+git status
+f:
+cd Work\member\
+:
+f:
+cd Work\data\
+git status
+git pull
+ls
+f:
+cd Work\member\
+npm run dev
+cd trade
+git pull origin develop 
+cd ..
+cd tradesz\
+git statsus
+f:
+cd Work\trade\trade
+git status
+git checkout test 
+git branch -v
+git branch -D develop 
+git checkout develop 
+git pull
+npm run dev
+npm run dev
+f:
+cd Work\data\
+git status
+git checkout develop 
+git pull
+git merge LiChangSheng 
+git checkout LiChangSheng 
+npm run dev
+git pull
+git merge LiChangSheng 
+git checkout LiChangSheng 
+npm run dev
+f:
+cd Work\authvue2.5\
+git stauts
+git statuds
+npm cache clean 
+cnpm cache clean
+npm list
+npm list vu
+npm list vue
+npm cache clean -f
+npm list 
+npm i
+git add .
+git commit -m 测试vue2.5
+git status
+git push
+f:
+cd Work\data\
+git status
+git pull
+git merge LiChangSheng 
+git checkout LiChangSheng 
+npm run dev
+git checkout LiChangSheng 
+npm run dev
+f:
+cd Work\authvue2.5\
+git statuds
+npm cache clean 
+cnpm cache clean
+npm list
+npm list vu
+npm list vue
+npm cache clean -f
+npm list 
+npm i
+git commit -m 测试vue2.5
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git data
+cd data\
+git init
+git commit -m 提交修改测试
+git checkout deve
+git branch develop
+git remote add origin https://git.yaoling.io/frontend/yaoling-gpo-fe-data.git
+git branch --set-upstream-to=origin/develop develop
+git pull ----allow-unrelated-histories
+git pull origin develop ----allow-unrelated-histories
+git pull
+git pull origin develop --allow-unrelated-histories
+git add .
+git commit -m 医疗机构修改bug
+git checkout test 
+git status
+git merge develop 
+git push
+git checkout develop 
+git checkout test 
+git merge develop 
+git checkout develop 
+git add .
+git commit -m 加git错误处理
+git pull
+git status
+git push
+f:
+cd Work\member\
+git status
+git pull
+npm list vu
+npm list vue
+npm cache clean -f
+npm list 
+npm i
+git add .
+git commit -m 测试vue2.5
+f:
+cd Work\data\
+git checkout master 
+git push --set-upstream origin master 
+git branch --set-upstream-to=origin/master master
+git pull
+git merge test 
+git push
+git status
+f:
+cd Work\settle\
+f:
+cd Work\settle\
+git status
+npm run dev
+f:
+npm run dev
+git statuds
+cnpm cache clean
+npm list vu
+npm list vue
+npm cache clean -f
+npm list 
+git add .
+git commit -m 测试vue2.5
+git push
+git clone 
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git LiChangSheng vue2.5
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git vue2.5
+cd vue2.5\
+git checkout LiChangSheng 
+git status
+npm cache clean _
+npm cache clean 
+npm cache verify
+npm -v
+npm i
+npm list
+npm run dev
+npm list vue
+npm cache clean -f
+npm list 
+git commit -m 测试vue2.5
+git clone 
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git LiChangSheng vue2.5
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-auth.git vue2.5
+cd vue2.5\
+npm cache clean _
+npm -v
+npm run dev
+npm cache clean 
+npm cache clean --f
+npm cache verify
+npm i
+npm list
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+git status
+git push
+npm publish 
+npm run dev 
+npm run build 
+git add .
+git commit -m gpo-public修改一下package版本
+npm publish 
+f:
+cd Work\tradecenter\
+git pull
+git status
+git push
+git checkout develop 
+git push
+cd Work\trade\trade
+git status
+git log -online
+git log --online
+git log --ls
+git log --line
+git log --oneline
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+f:
+cd Work\data\
+git commit -m 日期范围选择测试
+git commit -m 修改表格列筛选bug
+git stauts
+git reset 
+git commit -m 调整日期范围选择组件
+git commit -m 解决冲突
+git commit -m 企业机构库+代理药品日期范围选择
+npm i gpo-public@latest -S
+git commit -m 日期范围选择组件使用gpo-public
+git commit -m 修改日期范围选择组件
+git sttaus
+git commit -m 完善信息原值对比
+git commit -m 加了个esLint规则，把api的js全格式化一遍
+git commit -m 药品品规修改完成
+git commit -m 企业机构库日期段原值，注册资本高度bug
+git merge dve
+git merge  develop 
+git commit -m 修改医院有效期bug
+git commit -m 修改产品原值bug，企业机构选日期不弹框
+git commit -m 处理企业保存集团id没有的问题
+git merge develop 
+git add ,
+git commit -m 把接口该回来
+git commit -m 企业机构库医院原值bug
+git pull origin develop 
+git add .
+git commit -m 生产、经营原值日期段
+git checkout master 
+git pull
+git reset --hard 
+git merge test 
+git merge master 
+git checkout test 
+git merge LiChangSheng 
+git checkout develop 
+git push
+git checkout LiChangSheng 
+git status
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+cd member\
+cd Work\member\
+npm i
+f:
+cd Work\trade\tradesz\
+git reset --hard 
+git checkout test 
+git pull
+git checkout develop 
+git status
+npm run dev
+git checkout LiChangSheng 
+git merge master 
+f:
+cd Work\trade\trade
+git pull
+git status
+npm run dev
+git log --oneline
+git add .
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+git push
+f:
+cd Work\data\
+git status
+npm i gpo-public@latest -S
+npm i
+npm run dev
+f:
+cd Work\cms\
+git status
+git pull
+git pull
+git status
+npm run dev
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+f:
+cd Work\data\
+git status
+npm i gpo-public@latest -S
+npm i
+npm run dev
+cd Work\cms\
+f:
+cd Work\tradecenter\
+git commit -m 地址省市区bug修改
+git merge LiChangSheng 
+git pus
+git checkout LiChangSheng 
+cd ..
+cd Work\trade\tradesz\
+git add .
+git commit -m 地址管理省市区bug
+git status
+git pull
+git puhs
+git checkout test 
+git merge develop 
+git push
+git checkout develop 
+git pus
+git checkout LiChangSheng 
+cd ..
+cd Work\trade\tradesz\
+git add .
+git commit -m 地址管理省市区bug
+git puhs
+git checkout test 
+git merge develop 
+git push
+cd ceyice\
+git checkout deve
+git checkout develop
+git branch -v
+git branch develop
+git branch --set-upstream-to=origin/develop develop
+git branch -D
+git branch -D master 
+git checkout master 
+git status
+git pull
+git checkout develop 
+f:
+cd Work\auth\
+git status
+npm run dev
+git branch -v
+git branch develop
+git branch --set-upstream-to=origin/develop develop
+git branch -D
+git branch -D master 
+git checkout master 
+git pull
+git checkout develop 
+f:
+cd Work\public\
+git commit -m 更新iconfont图标字体
+npm run build 
+npm publish 
+git add .
+git commit -m 更新iconfont字体库
+git status
+git push
+f:
+cd Work\tradecenter\
+npm run dev
+git pull
+git status
+npm run dev
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+f:
+cd Work\data\
+git status
+npm i gpo-public@latest -S
+npm i
+npm run dev
+cd Work\cms\
+f:
+cd Work\settle\
+git addd .
+git commit -m 基础配置修改，
+git commit -m 把公共字体先应用
+git commit -m 处理settle基础配置，使用gpo-public菜单栏
+git add .
+git commit -m 删掉测试的index，顺便格式化一下
+git status
+git pulll
+git pull
+git push
+git commit -m 完善信息原值对比
+git commit -m 加了个esLint规则，把api的js全格式化一遍
+git commit -m 药品品规修改完成
+git commit -m 企业机构库日期段原值，注册资本高度bug
+git merge dve
+git merge  develop 
+git commit -m 修改医院有效期bug
+git commit -m 修改产品原值bug，企业机构选日期不弹框
+git commit -m 处理企业保存集团id没有的问题
+git add ,
+git commit -m 把接口该回来
+git commit -m 企业机构库医院原值bug
+git pull origin develop 
+git add .
+git commit -m 生产、经营原值日期段
+git pull
+git reset --hard 
+git merge master 
+git checkout test 
+git merge LiChangSheng 
+git checkout develop 
+git push
+git checkout LiChangSheng 
+git status
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+cd member\
+cd Work\member\
+npm i
+f:
+git pull
+git status
+npm run dev
+git checkout LiChangSheng 
+git merge master 
+f:
+cd Work\trade\trade
+git status
+npm run dev
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+cd Work\data\
+npm i gpo-public@latest -S
+npm i
+npm run dev
+f:
+cd Work\trade\tradesz\
+git add .
+git commit -m 平台名称改成读配置的
+git pull
+git checkout test 
+git merge develop 
+git checkout master 
+git reset --hard 
+git merge test 
+git status
+git push
+git checkout develop 
+git checkout develop 
+git push
+git checkout LiChangSheng 
+git status
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+cd member\
+cd Work\member\
+npm i
+f:
+cd Work\trade\tradesz\
+git pull
+git status
+npm run dev
+git merge master 
+f:
+git status
+npm run dev
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+cd Work\data\
+npm i gpo-public@latest -S
+npm i
+npm run dev
+f:
+cd Work\trade\trade
+git staus
+git reset 0--ha
+git reset --hard 
+git add .
+git commit -m 地址管理的省市区bug
+git checkout develop 
+git checkout test 
+git merge develop 
+git status
+git push
+git pull
+git merge LiChangSheng 
+git checkout LiChangSheng 
+git checkout LiChangSheng 
+git merge master 
+f:
+cd Work\trade\trade
+git pull
+git status
+npm run dev
+git log --oneline
+git add .
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+git push
+f:
+cd Work\data\
+git status
+cd Work\cms\
+f:
+cd Work\settle\
+git reset --hard 
+git pull
+npm list viewerjs
+npm cache clean 
+npm cache 
+npm i
+npm cache clean
+npm cache clean -f
+npm cache verify
+npm i gpo-public@latest -S
+npm list
+git status
+npm run dev
+git merge master 
+git checkout test 
+git merge LiChangSheng 
+git checkout develop 
+git push
+git checkout LiChangSheng 
+git status
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+cd member\
+cd Work\member\
+npm i
+f:
+cd Work\trade\tradesz\
+git checkout test 
+git pull
+git status
+npm run dev
+git checkout LiChangSheng 
+git merge master 
+f:
+git status
+npm run dev
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+cd Work\data\
+npm i gpo-public@latest -S
+npm i
+f:
+cd Work\trade\trade
+git pull -f
+git reset --hard 
+git init
+git commit -m git重新初始化
+git branch develop
+git checkout develop 
+git remote add origin https://git.yaoling.io/jiaoyi/yaoling-gpo-fe-trade.git
+git branch --set-upstream-to=origin/develop develop
+git pull origin develop --allow-unrelated-gistorires
+git pull origin develop --allow-unrelated-gistories
+git pull origin develop --allow-unrelated-histories
+git add .
+git commit -m 解决刚才的冲突
+git pull
+git push
+git status
+npm run dev
+git push
+git checkout LiChangSheng 
+git status
+git clone https://git.yaoling.io/frontend/yaoling-gpo-fe-member.git member
+cd member\
+cd Work\member\
+npm i
+f:
+git reset --hard 
+git pull
+git status
+npm run dev
+git checkout LiChangSheng 
+git merge master 
+f:
+cd Work\trade\trade
+git status
+npm run dev
+git log --oneline
+git commit element+vue,bug
+git commit element+vue，bug
+git commit element——vue，bug
+git commit el-m ementnt+vue，bug
+git commit elementui+vue，bug
+git commit elementuivuebug
+git commit -m elementvuebug
+cd Work\data\
+npm i gpo-public@latest -S
+npm i
+f:
+cd Work\trade\tradesz\
+git init
+git commit -m 修复git初始化
+git branch deve
+git branch develop
+git checkout deve
+git branch -D deve
+git branch -v
+git branch -D master 
+git clone https://git.yaoling.io/trade/yaoling-gpo-fe-tradesz.git 
+git remote add origin https://git.yaoling.io/trade/yaoling-gpo-fe-tradesz.git
+git branch --set-upstream-to=origin/develop develop
+git pull origin develop --allow-unrelated-histories
+git sttaus
+git add .
+git commit -m 解决刚才git冲突的bug
+git checkout test 
+git merge develop 
+git pull
+git status
+git push
+git checkout develop 
+npm run dev
+git pull
+git push
+git checkout develop 
+npm run dev
+f:
+cd Work\auth\
+git status
+npm cache clean 
+npm cache verify
+npm cache clean -f
+npm i gpo-public@latest -S
+npm list
+f:
+cd Work\auth\
+git status
+npm run dev
+cd Work\auth\
+npm run dev
+git status
+npm cache clean
+npm cache verify
+npm cache clean -f
+npm i gpo-public@latest -S
+npm list
+f:
+cd Work\auth\
+git status
+npm run dev
+f:
+cd Work\auth\
+npm run dev
+f:
+cd Work\auth\
+git add .
+git commit -m 测点东西
+git status
+git pull
+git push
+npm run dev
+f:
+cd Work\auth\
+cd Work\auth\
+git add .
+git commit -m 测点东西
+git pull
+git push
+f:
+cd Work\
+git clone https://git.yaoling.io/jiaoyi/yaoling-gpo-fe-mobile.git mobile
+cd mobile\
+git checkout develop 
+git status
+git reset --hard 
+npm cache clean 
+npm cache verify
+npm cache clean -f
+npm i
+npm list
+npm run dev
+git push
+f:
+cd Work\mobile\
+git pull
+git status
+git reset --hard 
+git push
+f:
+cd Work\member\
+git satus
+git status
+npm run dev
+npm i gpo-public@latest -S
+npm list
+f:
+cd Work\auth\
+git status
+npm run dev
+f:
+cd Work\auth\
+npm run dev
+cd Work\auth\
+git commit -m 测点东西
+f:
+cd Work\member\
+git pull
+git add .
+git commit -m 去掉没用文件，格式化，附件查看调用两次的bug
+git merge LiChangSheng 
+git checkout test 
+git merge develop 
+git push
+git checkout develop 
+git status
+f:
+cd Work\purchase\
+git status
+git pull
+npm list gpo-public
+npm run dev
+git commit -m 去掉没用文件，格式化，附件查看调用两次的bug
+git merge LiChangSheng 
+f:
+cd Work\purchase\
+git add .
+git commit -m 去掉没用的页面，格式化，改了附件imageurl
+git status
+git pull
+git checkout test 
+git merge develop 
+git push
+git checkout develop 
+git checkout develop 
+f:
+cd Work\settle\
+git add .
+git commit -m 去掉没用的东西，加入修改密码的接口，更新附件上传与查看
+git status
+git pull
+git push
+f:
+cd Work\settle\
+git satus
+git status
+git pull
+npm run deve
+npm run dev
+f:
+cd Work\purchase\
+git add .
+git commit -m 去掉没用的页面，格式化，改了附件imageurl
+git status
+git pull
+git push
+git checkout develop 
+f:
+cd Work\settle\
+git commit -m 去掉没用的东西，加入修改密码的接口，更新附件上传与查看
+git status
+git pull
+cd Work\settle\
+git satus
+npm run deve
+npm run dev
+f:
+cd Work\trade\trade
+git add .
+git commit -m 去掉没用的东西，改一下附件查看
+git merge LiChangSheng 
+git checkout LiChangSheng 
+GIT STATUS
+git checkout test 
+git reset --hard 
+git pull
+git merge develop 
+git status
+git push
+git checkout develop 
+git merge test 
+npm run deve
+f:
+cd Work\trade
+cd trade
+git status
+npm run dev
+git reset --hard 
+git status
+git merge test 
+npm run deve
+cd Work\trade
+cd trade
+npm run dev
+f:
+cd Work\trade\tradesz\
+git add .
+git commit -m 删掉没用的文件，修改附件查看bug
+git checkout test 
+git pull
+git merge develop 
+git status
+git push
+git checkout develop 
+cd Work\trade
+cd trade
+cd Work\trade\tradesz\
+git commit -m 删掉没用的文件，修改附件查看bug
+git merge develop 
+f:
+cd Work\settle\
+git add .
+git commit -m auth接口地址修改一下下
+git stauts
+git checkout test 
+git branch -v
+git checkout develop 
+git branch -D test 
+git push
+git pull
+cd ..
+cd tradecenter\
+git status
+npm run dev
+git add .
+git commit -m 去掉没用的东西，改一下附件查看
+GIT STATUS
+git checkout test 
+git reset --hard 
+git pull
+git merge develop 
+git status
+git push
+git checkout develop 
+git merge test 
+npm run deve
+f:
+cd Work\trade
+cd trade
+git status
+npm run dev
+git status
+npm run deve
+cd Work\trade
+cd trade
+npm run dev
+cd Work\trade\tradesz\
+git commit -m 删掉没用的文件，修改附件查看bug
+f:
+cd Work\tradecenter\
+git commit -m 去掉没用的文件，修复附件查看bug
+git reset --hard 
+git merge LiChangSheng 
+git add .
+git commit -m 解禁额冲突
+git pull
+git checkout develop 
+git checkout test 
+git merge develop 
+git checkout LiChangSheng 
+git merge test 
+git status
+git push
+cd Work\trade\tradesz\
+git commit -m 删掉没用的文件，修改附件查看bug
+git commit -m 去掉没用的文件，修复附件查看bug
+git reset --hard 
+git commit -m 解禁额冲突
+git merge test 
+f:
+cd Work\tradecenter\
+git add .
+git commit -m 左侧菜单方法写错了。。。
+git pul
+git pull
+git merge LiChangSheng 
+git checkout test 
+git checkout LiChangSheng 
+git merge develop 
+git push
+git checkout develop 
+git status
+git push
+f:
+cd Work\tradecenter\
+git status
+npm run dev
+git merge LiChangSheng 
+git add .
+git commit -m 解禁额冲突
+git pull
+git checkout develop 
+git checkout test 
+git merge develop 
+git checkout LiChangSheng 
+git merge test 
+git status
+git push
+cd Work\trade\tradesz\
+git commit -m 删掉没用的文件，修改附件查看bug
+git commit -m 去掉没用的文件，修复附件查看bug
+git reset --hard 
+git commit -m 解禁额冲突
+f:
+cd Work\tradecenter\
+git commit -m 左侧菜单方法写错了。。。
+git pul
+git merge LiChangSheng 
+git push
+git status
+cd Work\tradecenter\
+npm run dev
+f:
+cd Work\trade\trade
+git commit -m 测试
+git branch --set-upstream-to=origin/master master 
+git branch -D master 
+git pull
+git checkout master 
+git merge test 
+git checkout develop 
+git merge master 
+git checkout test 
+git checkout LiChangSheng 
+git add .
+git commit -m 测试输入数字计算的问题
+git status
+git merge develop 
+git push
+cd trade
+git status
+npm run dev
+git status
+npm run deve
+cd Work\trade
+cd trade
+npm run dev
+cd Work\trade\tradesz\
+git commit -m 删掉没用的文件，修改附件查看bug
+cd Work\tradecenter\
+git commit -m 去掉没用的文件，修复附件查看bug
+git merge LiChangSheng 
+git commit -m 解禁额冲突
+git checkout LiChangSheng 
+f:
+cd Work\settle\
+git commit -m 菜单导航权限
+git pull
+git checkout test 
+git reset --hard 
+git add .
+git commit -m 解决冲突
+git merge develop 
+git checkout develop 
+git merge test 
+git push
+git status
+git status
+npm run dev
+f:c
+f:
+cd Work\tradecenter\
+git add .
+git commit -m gitlab-ci少了一行命令
+git status
+git checkout test 
+git merge develop 
+git push
+git checkout develop 
+npm list
+f:
+cd Work\auth\
+git status
+npm run dev
+cd Work\auth\
+npm run dev
+git status
+npm cache clean
+npm cache verify
+npm cache clean -f
+npm i gpo-public@latest -S
+npm list
+f:
+cd Work\auth\
+git status
+npm run dev
+f:
+cd Work\auth\
+npm run dev
+cd Work\auth\
+git commit -m 测点东西
+f:
+cd Work\data\
+git commit -m 删掉一些没卵用的东西
+git commit -m 附件的imageurl，免得加载两次
+git checkout test 
+git merge develop 
+git checkout LiChangSheng 
+git stuats
+git add .
+git commit -m 附件加一个注释
+git status
+git pull
+git checkout develop 
+git merge LiChangSheng 
+git push
+git push
+f:
+cd Work\settle\
+git status
+git pull
+npm run dev
+git merge test 
+git push
+f:
+cd Work\trade\tradesz\
+git reset --hard 
+git pull
+git status
+npm run dev
+cd Work\tradecenter\
+f:
+cd Work\trade\trade
+git status
+npm run dev
+cd Work\auth\
+f:
+cd Work\data\
+git status
+npm run dev
+f:
+cd Work\data\
+npm run dev
+f:
+cd Work\auth\
+git pull
+git checkout test 
+git merge develop 
+git status
+git push
+git checkout develop 
+cd Work\tradecenter\
+f:
+cd Work\trade\trade
+git status
+npm run dev
+cd Work\auth\
+cd Work\data\
+npm run dev
+f:
+cd Work\cms\
+git add .
+git commit -m 处理文章管理bus多次的bug
+git checkout develop 
+git pull
+git merge wu
+git sttaus
+git checkout wu
+git merge develop 
+git status
+git push
+cd Work\auth\
+cd Work\data\
+f:
+cd Work\cms\
+git pul
+git branch --remote
+git checkout wu
+git status
+git pull
+npm run dev
+npm run dev
+cd Work\tradecenter\
+f:
+cd Work\trade\trade
+git status
+npm run dev
+cd Work\auth\
+cd Work\data\
+npm run dev
+f:
+cd Work\settle\
+git add .
+git commit -m apiconfigu
+git push
+git pull
+npm run develop 
+git status
+cd Work\data\
+f:
+cd Work\settle\
+git status
+git pull
+npm run dev
+cd Work\settle\
+npm run dev
+f:
+cd Work\
+cd ..
+cd git\
+ls
+cd ceyice\
+git pull
+git status
+cd Work\auth\
+cd Work\data\
+f:
+cd Work\cms\
+git pul
+git branch --remote
+git checkout wu
+git status
+git pull
+npm run dev
+npm run dev
+cd Work\tradecenter\
+f:
+cd Work\trade\trade
+git status
+npm run dev
+cd Work\auth\
+cd Work\data\
+npm run dev
+f:
+cd Work\settle\
+git add .
+git commit -m apiconfigu
+git push
+git pull
+npm run develop 
+git status
+cd Work\data\
+f:
+cd Work\settle\
+git status
+git pull
+npm run dev
+cd Work\settle\
+npm run dev
+cd Work\
+cd ..
+cd git\
+ls
+cd ceyice\
+git pull
+git status
+f:
+cd OneDrive\study\node\
+node fs.js
+cd Work\settle\
+git add .
+git commit -m apiconfigu
+git push
+git pull
+npm run develop 
+git status
+cd Work\data\
+f:
+cd Work\settle\
+git status
+git pull
+npm run dev
+cd Work\settle\
+npm run dev
+cd Work\
+cd ..
+cd git\
+ls
+cd ceyice\
+git pull
+git status
+f:
+cd OneDrive\study\node\
+node fs.js
+new Date()
+console.log
+node getCode.js 
+ls
+cd ceyice\
+cd OneDrive\study\node\
+node fs.js
+new Date()
+console.log
+node getCode.js 
+f:
+cd Work\trade\tradesz\
+git stuat
+git add .
+git commit -m 交易首页加上架药品，医疗机构，配送企业
+git checkout test 
+git pull
+git merge develop 
+git push
+git status
+git checkout develop 
+git pull
+git checkout develop 
+git push
+git push
+f:
+cd Work\settle\
+git status
+git pull
+npm run dev
+git merge test 
+git push
+f:
+cd Work\trade\tradesz\
+git reset --hard 
+git pull
+git status
+npm run dev
+cd Work\tradecenter\
+f:
+cd Work\trade\trade
+git status
+npm run dev
+cd Work\auth\
+f:
+cd Work\data\
+git status
+npm run dev
+f:
+cd Work\data\
+npm run dev
+f:
+cd Work\auth\
+git pull
+git merge develop 
+git status
+git push
+git checkout develop 
+cd Work\tradecenter\
+f:
+cd Work\trade\trade
+git status
+npm run dev
+cd Work\auth\
+cd Work\data\
+npm run dev
+f:
+cd Work\cms\
+git add .
+git commit -m 处理文章管理bus多次的bug
+git pull
+git merge wu
+git sttaus
+git checkout wu
+git status
+git push
+cd Work\auth\
+cd Work\data\
+f:
+cd Work\cms\
+git pul
+git branch --remote
+git checkout wu
+git status
+git pull
+npm run dev
+npm run dev
+cd Work\tradecenter\
+f:
+cd Work\trade\trade
+git status
+npm run dev
+cd Work\auth\
+cd Work\data\
+npm run dev
+f:
+cd Work\settle\
+git commit -m apiconfigu
+git pull
+npm run develop 
+git status
+cd Work\settle\
+npm run dev
+f:
+cd Work\data\
+git commit -m 做了一半的生产企业生产范围
+git commit -m 会员管理加接口密钥
+git commit -m 处理memberbug
+git tatust
+git commit -m 会员管理密钥修改
+git commit -m 修改密钥的小问题
+git commit -m 生产企业的生产范围
+git commit -m 处理生产范围bug
+git satus
+git pull
+git add .
+git commit -m 表单原值查看的一个bug
+git status
+git checkout develop 
+git merge LiChangSheng 
+git checkout test 
+git merge develop 
+git push
+git checkout LiChangSheng 
+git checkout test 
+git reset --hard 
+git add .
+git merge develop 
+git checkout develop 
+git merge test 
+git push
+git status
+git status
+npm run dev
+f:c
+f:
+cd Work\tradecenter\
+git add .
+git commit -m gitlab-ci少了一行命令
+git status
+git checkout test 
+git merge develop 
+git push
+git checkout develop 
+npm list
+f:
+cd Work\auth\
+git status
+npm run dev
+cd Work\auth\
+npm run dev
+git status
+npm cache clean
+npm cache verify
+npm cache clean -f
+npm i gpo-public@latest -S
+npm list
+f:
+cd Work\auth\
+git status
+npm run dev
+f:
+cd Work\auth\
+npm run dev
+cd Work\auth\
+git commit -m 测点东西
+f:
+cd Work\data\
+git commit -m 删掉一些没卵用的东西
+git commit -m 附件的imageurl，免得加载两次
+git stuats
+git commit -m 附件加一个注释
+git status
+git pull
+git push
+git push
+f:
+cd Work\settle\
+git status
+git pull
+npm run dev
+f:
+cd Work\trade\tradesz\
+git status
+npm run dev
+cd Work\tradecenter\
+f:
+git status
+npm run dev
+cd Work\auth\
+cd Work\data\
+npm run dev
+f:
+cd Work\trade\trade
+node server.js 
+git commit -m 数字输入的差不多了，弄上去测试看看
+git merge LiChangSheng 
+git commit -m input加了disabled，完成医院报量跟合同的修改
+git commit -m 加了居左居中居右的
+git commit -m 订单列表配送企业发货的inputnumber改了一半，感觉有坑
+git commit -m 加了是否允许输入符号
+git sttaus
+git reset --hard 
+git commit -m 解决冲突
+git pull
+git add .
+git commit -m 首页加上架药品，配送企业，医疗机构
+git merge test 
+git checkout LiChangSheng 
+git merge develop 
+git push
+git checkout test 
+git status
+git checkout develop 
+npm run dev
+git status
+npm cache clean
+npm cache verify
+npm cache clean -f
+npm i gpo-public@latest -S
+npm list
+f:
+cd Work\auth\
+git status
+npm run dev
+f:
+cd Work\auth\
+npm run dev
+cd Work\auth\
+git commit -m 测点东西
+f:
+cd Work\data\
+git commit -m 删掉一些没卵用的东西
+git commit -m 附件的imageurl，免得加载两次
+git stuats
+git commit -m 附件加一个注释
+git status
+git pull
+git push
+git push
+f:
+cd Work\settle\
+git status
+git pull
+npm run dev
+f:
+cd Work\trade\tradesz\
+git status
+npm run dev
+cd Work\tradecenter\
+f:
+cd Work\trade\trade
+git status
+npm run dev
+cd Work\auth\
+cd Work\data\
+npm run dev
+f:
+cd Work\member\
+git commit -m ukey申请提示
+git commit -m 补全之前的错误提示
+git merge test 
+git checkout master 
+git reset --hard 
+git add .
+git commit -m 生产企业生产范围的修改
+git pull
+git merge LiChangSheng 
+git checkout test 
+git merge develop 
+git status
+git push
+git checkout develop 
+git checkout LiChangSheng 
+git status
+cd Work\settle\
+git pull
+f:
+cd Work\data\
+git status
+npm run dev
+git reset --hard 
+git status
+npm run dev
+cd Work\tradecenter\
+f:
+git status
+npm run dev
+cd Work\auth\
+cd Work\data\
+f:
+cd Work\trade\trade
+git staus
+git checkout develop 
+git pull
+git checkout test 
+git status
+npm run dev
+f:c
+f:
+cd Work\member\
+git status
+npm run dev
+f:
+npm unpublish -f layout-gpo
+npm unpublish layout-gpo
+npm unpublish layout-gpo --force
+npm unpublish layout-gpo
+npm unpublish layout-gpo --force
+f:
+cd Work\tradecenter\
+git pull
+git pull origin develop 
+git checkout test 
+git checkout master 
+git merge test 
+git status
+ggit push
+git push
+cd Work\tradecenter\
+git pull origin develop 
+git checkout master 
+git merge test 
+ggit push
+f:
+cd Work\trade\tradesz\
+git add .
+git commit -m 配送单列表切换bug
+git checkout test 
+git pull
+git merge develop 
+git status
+git push
+git checkout develop 
+node getCode.js 
+node getCode.js 
+python
+python
+python
+pip install selenium
+npm i chromedriver
+pip show selenium
+python
+git clone https://github.com/ChangLCS/Python.git pythonProject
+cd pythonProject\
+pip show selenium
+python
+f:
+python
+f:
+cd Work\public\
+npm run build 
+npm publish 
+git add .
+git commit -m 加了个视频的小图标
+git status
+git push
+$ pydoc modules
+pydoc modules
+pydoc
+python
+pip install pylint
+pydoc modules
+pydoc
+python
+pip install requests
+git add .
+git commit -m 测试python
+git status
+python
+pip install selenium
+npm i chromedriver
+pip show selenium
+python
+git init
+git tstatus
+git commit -m git初始化
+git checkout develop
+git branch develop 
+git checkout develop 
+pip install xlrd
+git add .
+git commit -m readme
+git status
+f:L
+f:
+cd Work\mobile\
+pip install xlrd
+git add .
+git commit -m readme
+f:
+cd Work\mobile\
+git pull
+npm run dev
+git status
+f:
+cd Work\data\
+f:
+cd Work\data\
+git status
+npm ru ndev
+npm run dev
+npm ru ndev
+npm run dev
+f:
+cd Work\trade\trade
+git reset --hard 
+git pull
+git status
+git log -v
+python -v
+python ez_setup.py 
+easy_install
+python setup.py 
+cd Work\data\
+f:
+cd Work\data\
+git status
+npm ru ndev
+npm run dev
+npm ru ndev
+npm run dev
+cd Work\trade\trade
+git reset --hard 
+git pull
+git log -v
+python -v
+pip --version
+python --version
+f:
+python ez_setup.py 
+cd Work\domeSelenium1\
+git commit -m 修改了一下工程目录
+git remote add origin https://github.com/ChangLCS/pythonStudy.git develop
+git remote add origin https://github.com/ChangLCS/pythonStudy.git 
+git push --set-upstream origin develop 
+git add .
+git commit -m 先把src给删掉
+git status
+git push
+git push
+f:
+cd Work\domeSelenium1\
+git add .
+git commit -m 就差复制execl的参数了
+git sttaus
+git status
+pip install pywinauto
+f:
+f:
+git commit -m 就差复制execl的参数了
+git sttaus
+pip install pywinauto
+f:
+f:
+cd Work\member\
+git pull
+git checkout test 
+git merge develop 
+git checkout master 
+git merge test 
+git status
+git push
+git checkout LiChangSheng 
+git checkout develop 
+pip install pywin32
+git remote add origin https://github.com/ChangLCS/pythonStudy.git 
+git push --set-upstream origin develop 
+git commit -m 先把src给删掉
+f:
+cd Work\public\
+npm run build 
+npm publish 
+git add .
+git commit -m 左侧菜单加个name，用于搜素
+git status
+git push
+f:
+cd Work\public\
+git status
+npm run dev
+f:c
+f:
+cd Work\settle\
+npm run dev
+git push --set-upstream origin develop 
+git add .
+git commit -m 先把src给删掉
+git status
+git push
+cd Work\domeSelenium1\
+git commit -m 就差复制execl的参数了
+git sttaus
+f:
+cd Work\settle\
+git add .
+git commit -m 权限bug，上传附件bug
+git satus
+git status
+git pull
+git push
+f:
+cd Work\trade\trade
+npm ru ndev
+git reset --hard 
+git log -v
+f:
+cd Work\trade\trade
+git checkout LiChangSheng 
+git pull
+git merge develop 
+git status
+git push
+npm run dev
+npm run dev
+git pull
+git add .
+git commit -m git忽略规格
+git status
+f:
+cd Work\trade\trade
+npm ru ndev
+git reset --hard 
+git log -v
+f:
+cd Work\trade\trade
+git checkout LiChangSheng 
+git pull
+git merge develop 
+npm run dev
+git commit -m 做了全局的配置
+git commit -m 去掉conf的git。。。
+git rm -r --cached
+git rm -r --cached .
+git add .
+git commit -m 去掉git缓存再提交一次
+git status
+git push
+python
+f:
+cd Work\trade\trade
+git checkout LiChangSheng 
+git pull
+git merge develop 
+git status
+git push
+npm run dev
+npm run dev
+git pull
+git add .
+git commit -m git忽略规格
+git status
+f:
+cd Work\trade\trade
+npm ru ndev
+git reset --hard 
+git log -v
+f:
+cd Work\trade\trade
+git checkout LiChangSheng 
+git pull
+git merge develop 
+npm run dev
+git commit -m 做了全局的配置
+git commit -m 去掉conf的git。。。
+git rm -r --cached
+git rm -r --cached .
+git commit -m 去掉git缓存再提交一次
+cd test\
+cd hello\
+python hello.py
+git commit -m 测试坑爹的import导入自定义模块，终于懂了
+cd src\
+python dataCreateEnterprise.py 
+cd ..
+git add .
+git commit -m 搞定了，坑爹的import
+git status
+git push
+python
+git reset --hard 
+git log -v
+cd Work\trade\trade
+git checkout LiChangSheng 
+git pull
+f:
+cd Work\member\
+git add .
+git commit -m 做了点附件预览的小修改
+git checkout test 
+git merge develop 
+git checkout master 
+git status
+git merge test 
+git push
+git checkout develop 
+cd ..
+cd tradesz
+cd trade\tradesz\
+npm run dev
+python
+f:
+cd git\pythonProject\
+git status
+cd ..
+cd Work\
+cd domeSelenium1\
+python 
+git push
+cd Work\domeSelenium1\
+git commit -m 就差复制execl的参数了
+git sttaus
+f:
+cd Work\settle\
+git commit -m 权限bug，上传附件bug
+git satus
+git status
+git pull
+git push
+f:
+cd Work\trade\trade
+npm ru ndev
+git reset --hard 
+git log -v
+cd Work\trade\trade
+git checkout LiChangSheng 
+git merge develop 
+npm run dev
+f:
+cd Work\trade
+cd ..
+cd tradecenter\
+git commit -m 期间库存结束时间查询bug
+git commit -m 小修改
+git commit -m 批号，单位
+git add .
+git commit -m gpo出库管理列表宽度
+git pull
+git push
+git status
+git merge develop 
+npm run dev
+f:
+cd Work\trade\trade
+git add .
+git commit -m gpo出库单列表
+git pull
+git status
+git push
+pip install pywin32
+f:
+cd Work\domeSelenium1\
+git add .
+git commit -m 测试send_keys
+git status
+git pull
+git push
+f:
+cd Work\mobile\
+pip install xlrd
+git commit -m readme
+f:
+npm run dev
+git status
+f:
+cd Work\data\
+cd Work\data\
+npm ru ndev
+npm run dev
+f:
+cd Work\mobile\
+git commit -m package
+git commit -m 列表下拉loading放中间，发票药品清单的bug
+git pull
+git commit -m 注释maintoken
+git push
+git add .
+git commit -m build格式化了一下。。
+git status
+git checkout develop
+git branch develop 
+pip install xlrd
+git add .
+git commit -m readme
+git status
+f:L
+f:
+cd Work\mobile\
+pip install xlrd
+git commit -m readme
+f:
+cd Work\mobile\
+npm run dev
+git status
+f:
+cd Work\data\
+npm ru ndev
+npm run dev
+f:
+cd Work\data\
+git add .
+git commit -m paging加个name当唯一标识
+git pull origin  develop 
+git merge LiChangSheng 
+git checkout LiChangSheng 
+git checkout deve
+git merge develop 
+git checkout master 
+git pull
+git merge test 
+git checkout test 
+git status
+git push
+git checkout develop 
+cd Work\data\
+npm ru ndev
+f:
+cd Work\mobile\
+git pull
+npm i
+git status
+npm run dev
+f:
+cd Work\data\
+git status
+npm run dev
+npm ru ndev
+git reset --hard 
+git log -v
+cd Work\trade\trade
+git merge develop 
+git push
+f:
+cd Work\trade
+cd trade
+git pull
+git checkout LiChangSheng 
+git checkout develop 
+git status
+npm run dev
+npm ru ndev
+git log -v
+cd Work\trade\trade
+git checkout LiChangSheng 
+git merge develop 
+git push
+f:
+cd Work\trade\tradesz\
+git reset --hard 
+cd ..
+cd tradecenter\
+git checkout develop 
+git pull
+git status
+npm run dev
+f:
+cd Work\mobile\
+git log --oneline
+giu
+git status
+git pull
+f:
+git log --oneline
+giu
+git pull
+f:
+cd Work\public\
+npm run build 
+npm publish 
+git add .
+git commit -m 加入iconfont-mobile
+git status
+git push
+git status
+f:
+cd Work\settle\
+git status
+git pull
+npm run dev
+python
+git push
+cd Work\trade\tradesz\
+git reset --hard 
+cd ..
+cd tradecenter\
+git checkout develop 
+git pull
+f:
+cd Work\mobile\
+npm cache clean 
+npm cache verify
+npm cache clean -f
+npm i
+git status
+npm run dev
+git merge develop 
+f:
+cd Work\trade\tradesz\
+git reset --hard 
+cd ..
+cd tradecenter\
+git checkout develop 
+npm run dev
+git log --oneline
+giu
+f:
+cd Work\mobile\
+git pull
+git commit -m 把没什么用的东西给砍掉，方便以后搞
+ping http://login.test.wei3dian.com/
+ping login.test.wei3dian.com
+npm run bu
+npm run bulid
+npm run build
+npm i gpo-public@latest -S
+npm run develop 
+git commit -m 引入iconfont-mobile
+git add .
+git commit -m 底部active的bug
+git status
+git push
+git commit -m 加入iconfont-mobile
+git status
+git push
+git status
+cd Work\settle\
+python
+f:
+cd Work\tradecenter\
+git pull
+git status
+npm run dev
+pip install yapf
+python
+python
+f:
+cd Work\cms\
+git pull
+git add .
+git commit -m 加点备注
+git push
+git status
+git commit -m 加点备注
+git push
+f:
+cd Work\settle\
+git status
+git reset --hard 
+git pull
+npm run dev
+f:
+cd Work\settle\
+git status
+git add .
+git commit -m 搜索条件为空变undefined
+git push
+git status
+f:
+cd Work\auth\
+git pull
+npm i
+npm run dev
+git push
+git status
+f:
+cd Work\tradecenter\
+git reset --hard 
+git pull
+npm run dev
