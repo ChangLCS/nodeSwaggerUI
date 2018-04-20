@@ -24,7 +24,7 @@ const server = http.createServer((req, res) => {
   const pathArr = urlInfo.path.match(pathReg);
 
   console.log('reqPath', reqPath);
-  fs.readFile(reqPath, function(err, data) {
+  fs.readFile(reqPath, function (err, data) {
     res.writeHead(200, {
       'content-type': pathArr ? `${mineType[pathArr[2]]};charset=utf-8` : 'charset=utf-8',
     });
@@ -33,7 +33,7 @@ const server = http.createServer((req, res) => {
   });
 });
 
-server.listen(5000);
+server.listen(8989);
 
 console.log('-----------------------------');
-console.log('swagger-ui running');
+console.log('port:8989      swagger-ui running');
